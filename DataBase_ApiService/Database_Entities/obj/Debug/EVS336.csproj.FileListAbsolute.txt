@@ -1,0 +1,121 @@
+D:\Classes\01Dotnet\Dotnet336\Part03\2018-06-24(336)\EFDemo3\EVS336\bin\Debug\EVS336.dll
+D:\Classes\01Dotnet\Dotnet336\Part03\2018-06-24(336)\EFDemo3\EVS336\bin\Debug\EVS336.pdb
+D:\Classes\01Dotnet\Dotnet336\Part03\2018-06-24(336)\EFDemo3\EVS336\bin\Debug\EntityFramework.dll
+D:\Classes\01Dotnet\Dotnet336\Part03\2018-06-24(336)\EFDemo3\EVS336\bin\Debug\EntityFramework.SqlServer.dll
+D:\Classes\01Dotnet\Dotnet336\Part03\2018-06-24(336)\EFDemo3\EVS336\bin\Debug\EntityFramework.xml
+D:\Classes\01Dotnet\Dotnet336\Part03\2018-06-24(336)\EFDemo3\EVS336\bin\Debug\EntityFramework.SqlServer.xml
+D:\Classes\01Dotnet\Dotnet336\Part03\2018-06-24(336)\EFDemo3\EVS336\obj\Debug\EVS336.csprojResolveAssemblyReference.cache
+D:\Classes\01Dotnet\Dotnet336\Part03\2018-06-24(336)\EFDemo3\EVS336\obj\Debug\EVS336.csproj.CoreCompileInputs.cache
+D:\Classes\01Dotnet\Dotnet336\Part03\2018-06-24(336)\EFDemo3\EVS336\obj\Debug\EVS336.csproj.CopyComplete
+D:\Classes\01Dotnet\Dotnet336\Part03\2018-06-24(336)\EFDemo3\EVS336\obj\Debug\EVS336.dll
+D:\Classes\01Dotnet\Dotnet336\Part03\2018-06-24(336)\EFDemo3\EVS336\obj\Debug\EVS336.pdb
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-08(336)\EVS336.GarmentsShop\EVS336\bin\Debug\EVS336.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-08(336)\EVS336.GarmentsShop\EVS336\bin\Debug\EVS336.pdb
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-08(336)\EVS336.GarmentsShop\EVS336\bin\Debug\EntityFramework.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-08(336)\EVS336.GarmentsShop\EVS336\bin\Debug\EntityFramework.SqlServer.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-08(336)\EVS336.GarmentsShop\EVS336\bin\Debug\EntityFramework.xml
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-08(336)\EVS336.GarmentsShop\EVS336\bin\Debug\EntityFramework.SqlServer.xml
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-08(336)\EVS336.GarmentsShop\EVS336\obj\Debug\EVS336.csprojResolveAssemblyReference.cache
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-08(336)\EVS336.GarmentsShop\EVS336\obj\Debug\EVS336.csproj.CoreCompileInputs.cache
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-08(336)\EVS336.GarmentsShop\EVS336\obj\Debug\EVS336.csproj.CopyComplete
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-08(336)\EVS336.GarmentsShop\EVS336\obj\Debug\EVS336.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-08(336)\EVS336.GarmentsShop\EVS336\obj\Debug\EVS336.pdb
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-15(336)\EVS336.GarmentsShop\EVS336\bin\Debug\EVS336.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-15(336)\EVS336.GarmentsShop\EVS336\bin\Debug\EVS336.pdb
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-15(336)\EVS336.GarmentsShop\EVS336\bin\Debug\EntityFramework.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-15(336)\EVS336.GarmentsShop\EVS336\bin\Debug\EntityFramework.SqlServer.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-15(336)\EVS336.GarmentsShop\EVS336\bin\Debug\EntityFramework.xml
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-15(336)\EVS336.GarmentsShop\EVS336\bin\Debug\EntityFramework.SqlServer.xml
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-15(336)\EVS336.GarmentsShop\EVS336\obj\Debug\EVS336.csprojResolveAssemblyReference.cache
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-15(336)\EVS336.GarmentsShop\EVS336\obj\Debug\EVS336.csproj.CoreCompileInputs.cache
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-15(336)\EVS336.GarmentsShop\EVS336\obj\Debug\EVS336.csproj.CopyComplete
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-15(336)\EVS336.GarmentsShop\EVS336\obj\Debug\EVS336.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-15(336)\EVS336.GarmentsShop\EVS336\obj\Debug\EVS336.pdb
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-21(336)\EVS336.GarmentsShop\EVS336\bin\Debug\EVS336.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-21(336)\EVS336.GarmentsShop\EVS336\bin\Debug\EVS336.pdb
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-21(336)\EVS336.GarmentsShop\EVS336\bin\Debug\EntityFramework.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-21(336)\EVS336.GarmentsShop\EVS336\bin\Debug\EntityFramework.SqlServer.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-21(336)\EVS336.GarmentsShop\EVS336\bin\Debug\EntityFramework.xml
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-21(336)\EVS336.GarmentsShop\EVS336\bin\Debug\EntityFramework.SqlServer.xml
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-21(336)\EVS336.GarmentsShop\EVS336\obj\Debug\EVS336.csprojResolveAssemblyReference.cache
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-21(336)\EVS336.GarmentsShop\EVS336\obj\Debug\EVS336.csproj.CoreCompileInputs.cache
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-21(336)\EVS336.GarmentsShop\EVS336\obj\Debug\EVS336.csproj.CopyComplete
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-21(336)\EVS336.GarmentsShop\EVS336\obj\Debug\EVS336.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-21(336)\EVS336.GarmentsShop\EVS336\obj\Debug\EVS336.pdb
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-22(336)\EVS336.GarmentsShop\EVS336\bin\Debug\EVS336.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-22(336)\EVS336.GarmentsShop\EVS336\bin\Debug\EVS336.pdb
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-22(336)\EVS336.GarmentsShop\EVS336\bin\Debug\EntityFramework.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-22(336)\EVS336.GarmentsShop\EVS336\bin\Debug\EntityFramework.SqlServer.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-22(336)\EVS336.GarmentsShop\EVS336\bin\Debug\EntityFramework.xml
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-22(336)\EVS336.GarmentsShop\EVS336\bin\Debug\EntityFramework.SqlServer.xml
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-22(336)\EVS336.GarmentsShop\EVS336\obj\Debug\EVS336.csprojResolveAssemblyReference.cache
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-22(336)\EVS336.GarmentsShop\EVS336\obj\Debug\EVS336.csproj.CoreCompileInputs.cache
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-22(336)\EVS336.GarmentsShop\EVS336\obj\Debug\EVS336.csproj.CopyComplete
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-22(336)\EVS336.GarmentsShop\EVS336\obj\Debug\EVS336.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-22(336)\EVS336.GarmentsShop\EVS336\obj\Debug\EVS336.pdb
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-29(336)\EVS336.GarmentsShop\EVS336\bin\Debug\EVS336.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-29(336)\EVS336.GarmentsShop\EVS336\bin\Debug\EVS336.pdb
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-29(336)\EVS336.GarmentsShop\EVS336\bin\Debug\EntityFramework.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-29(336)\EVS336.GarmentsShop\EVS336\bin\Debug\EntityFramework.SqlServer.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-29(336)\EVS336.GarmentsShop\EVS336\bin\Debug\EntityFramework.xml
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-29(336)\EVS336.GarmentsShop\EVS336\bin\Debug\EntityFramework.SqlServer.xml
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-29(336)\EVS336.GarmentsShop\EVS336\obj\Debug\EVS336.csprojResolveAssemblyReference.cache
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-29(336)\EVS336.GarmentsShop\EVS336\obj\Debug\EVS336.csproj.CoreCompileInputs.cache
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-29(336)\EVS336.GarmentsShop\EVS336\obj\Debug\EVS336.csproj.CopyComplete
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-29(336)\EVS336.GarmentsShop\EVS336\obj\Debug\EVS336.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-29(336)\EVS336.GarmentsShop\EVS336\obj\Debug\EVS336.pdb
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-04(336)\EVS336.GarmentsShop\EVS336\bin\Debug\EVS336.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-04(336)\EVS336.GarmentsShop\EVS336\bin\Debug\EVS336.pdb
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-04(336)\EVS336.GarmentsShop\EVS336\bin\Debug\EntityFramework.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-04(336)\EVS336.GarmentsShop\EVS336\bin\Debug\EntityFramework.SqlServer.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-04(336)\EVS336.GarmentsShop\EVS336\bin\Debug\EntityFramework.xml
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-04(336)\EVS336.GarmentsShop\EVS336\bin\Debug\EntityFramework.SqlServer.xml
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-04(336)\EVS336.GarmentsShop\EVS336\obj\Debug\EVS336.csprojResolveAssemblyReference.cache
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-04(336)\EVS336.GarmentsShop\EVS336\obj\Debug\EVS336.csproj.CoreCompileInputs.cache
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-04(336)\EVS336.GarmentsShop\EVS336\obj\Debug\EVS336.csproj.CopyComplete
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-04(336)\EVS336.GarmentsShop\EVS336\obj\Debug\EVS336.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-04(336)\EVS336.GarmentsShop\EVS336\obj\Debug\EVS336.pdb
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-05(336)\EVS336.GarmentsShop\EVS336\bin\Debug\EVS336.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-05(336)\EVS336.GarmentsShop\EVS336\bin\Debug\EVS336.pdb
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-05(336)\EVS336.GarmentsShop\EVS336\bin\Debug\EntityFramework.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-05(336)\EVS336.GarmentsShop\EVS336\bin\Debug\EntityFramework.SqlServer.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-05(336)\EVS336.GarmentsShop\EVS336\bin\Debug\EntityFramework.xml
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-05(336)\EVS336.GarmentsShop\EVS336\bin\Debug\EntityFramework.SqlServer.xml
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-05(336)\EVS336.GarmentsShop\EVS336\obj\Debug\EVS336.csprojAssemblyReference.cache
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-05(336)\EVS336.GarmentsShop\EVS336\obj\Debug\EVS336.csproj.CoreCompileInputs.cache
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-05(336)\EVS336.GarmentsShop\EVS336\obj\Debug\EVS336.csproj.CopyComplete
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-05(336)\EVS336.GarmentsShop\EVS336\obj\Debug\EVS336.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-05(336)\EVS336.GarmentsShop\EVS336\obj\Debug\EVS336.pdb
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-12(336)\EVS336.GarmentsShop\EVS336\bin\Debug\EVS336.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-12(336)\EVS336.GarmentsShop\EVS336\bin\Debug\EVS336.pdb
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-12(336)\EVS336.GarmentsShop\EVS336\bin\Debug\EntityFramework.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-12(336)\EVS336.GarmentsShop\EVS336\bin\Debug\EntityFramework.SqlServer.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-12(336)\EVS336.GarmentsShop\EVS336\bin\Debug\EntityFramework.xml
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-12(336)\EVS336.GarmentsShop\EVS336\bin\Debug\EntityFramework.SqlServer.xml
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-12(336)\EVS336.GarmentsShop\EVS336\obj\Debug\EVS336.csprojAssemblyReference.cache
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-12(336)\EVS336.GarmentsShop\EVS336\obj\Debug\EVS336.csproj.CoreCompileInputs.cache
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-12(336)\EVS336.GarmentsShop\EVS336\obj\Debug\EVS336.csproj.CopyComplete
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-12(336)\EVS336.GarmentsShop\EVS336\obj\Debug\EVS336.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-12(336)\EVS336.GarmentsShop\EVS336\obj\Debug\EVS336.pdb
+D:\Classes\01Dotnet\Dotnet334\Part03\2018-08-16(334)\EVS336.GarmentsShop\EVS336\bin\Debug\EVS336.dll
+D:\Classes\01Dotnet\Dotnet334\Part03\2018-08-16(334)\EVS336.GarmentsShop\EVS336\bin\Debug\EVS336.pdb
+D:\Classes\01Dotnet\Dotnet334\Part03\2018-08-16(334)\EVS336.GarmentsShop\EVS336\bin\Debug\EntityFramework.dll
+D:\Classes\01Dotnet\Dotnet334\Part03\2018-08-16(334)\EVS336.GarmentsShop\EVS336\bin\Debug\EntityFramework.SqlServer.dll
+D:\Classes\01Dotnet\Dotnet334\Part03\2018-08-16(334)\EVS336.GarmentsShop\EVS336\bin\Debug\EntityFramework.xml
+D:\Classes\01Dotnet\Dotnet334\Part03\2018-08-16(334)\EVS336.GarmentsShop\EVS336\bin\Debug\EntityFramework.SqlServer.xml
+D:\Classes\01Dotnet\Dotnet334\Part03\2018-08-16(334)\EVS336.GarmentsShop\EVS336\obj\Debug\EVS336.csprojAssemblyReference.cache
+D:\Classes\01Dotnet\Dotnet334\Part03\2018-08-16(334)\EVS336.GarmentsShop\EVS336\obj\Debug\EVS336.csproj.CoreCompileInputs.cache
+D:\Classes\01Dotnet\Dotnet334\Part03\2018-08-16(334)\EVS336.GarmentsShop\EVS336\obj\Debug\EVS336.csproj.CopyComplete
+D:\Classes\01Dotnet\Dotnet334\Part03\2018-08-16(334)\EVS336.GarmentsShop\EVS336\obj\Debug\EVS336.dll
+D:\Classes\01Dotnet\Dotnet334\Part03\2018-08-16(334)\EVS336.GarmentsShop\EVS336\obj\Debug\EVS336.pdb
+C:\Users\umair awan\Downloads\Programs\2018-08-28(334)\EVS336.GarmentsShop\EVS336\bin\Debug\EVS336.dll
+C:\Users\umair awan\Downloads\Programs\2018-08-28(334)\EVS336.GarmentsShop\EVS336\bin\Debug\EVS336.pdb
+C:\Users\umair awan\Downloads\Programs\2018-08-28(334)\EVS336.GarmentsShop\EVS336\bin\Debug\EntityFramework.dll
+C:\Users\umair awan\Downloads\Programs\2018-08-28(334)\EVS336.GarmentsShop\EVS336\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\umair awan\Downloads\Programs\2018-08-28(334)\EVS336.GarmentsShop\EVS336\bin\Debug\EntityFramework.xml
+C:\Users\umair awan\Downloads\Programs\2018-08-28(334)\EVS336.GarmentsShop\EVS336\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\umair awan\Downloads\Programs\2018-08-28(334)\EVS336.GarmentsShop\EVS336\obj\Debug\EVS336.csprojAssemblyReference.cache
+C:\Users\umair awan\Downloads\Programs\2018-08-28(334)\EVS336.GarmentsShop\EVS336\obj\Debug\EVS336.csproj.CoreCompileInputs.cache
+C:\Users\umair awan\Downloads\Programs\2018-08-28(334)\EVS336.GarmentsShop\EVS336\obj\Debug\EVS336.csproj.CopyComplete
+C:\Users\umair awan\Downloads\Programs\2018-08-28(334)\EVS336.GarmentsShop\EVS336\obj\Debug\EVS336.dll
+C:\Users\umair awan\Downloads\Programs\2018-08-28(334)\EVS336.GarmentsShop\EVS336\obj\Debug\EVS336.pdb

@@ -1,0 +1,4 @@
+1. Created an ASP.NetWebApplication(.NetFrameWork) Selected "Empty" template and checked Web_API as CoreReference
+2. Installed EntityFramework from NugetPackageManager
+3. Installed the CORS i.e ASP.NetCors from NugetPackageManager
+4. Added the Database project and also Installed EntityFramework there..
