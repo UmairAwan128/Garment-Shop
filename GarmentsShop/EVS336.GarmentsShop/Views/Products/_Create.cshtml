@@ -1,0 +1,86 @@
+﻿
+@using (Html.BeginForm("create", "products", FormMethod.Post, new { id = "createproduct", enctype = "multipart/form-data" }))
+{
+    <ul class="nav nav-tabs">
+        <li class="active"><a href="#genpane" data-toggle="tab"><span class="glyphicon glyphicon-grain"></span> General</a></li>
+        <li><a href="#despane" data-toggle="tab"><span class="glyphicon glyphicon-edit"></span> Description</a></li>
+        <li><a href="#imgpane" data-toggle="tab"><span class="glyphicon glyphicon-picture"></span> Images</a></li>
+    </ul>
+    <div class="tab-content">
+        <div id="genpane" class="tab-pane mytabpane active">
+            <div class="form-group form-inline">
+                <div class="input-group">
+                    <span class="input-group-addon"><span class="glyphicon glyphicon-tags"></span></span>
+                    @Html.DropDownList("Departments", (IEnumerable<SelectListItem>)ViewBag.DepartmentList,"- Select Departments -", new { @class = "form-control" })
+                </div>
+                &nbsp;
+                <div id="categoriesdiv" class="input-group">
+                </div>
+                <div id="subcategoriesdiv" class="input-group">
+                </div>
+            </div>
+            <div class="form-group">
+                <div class="input-group has-feedback">
+                    <span class="input-group-addon"><span class="glyphicon glyphicon-edit"></span></span>
+                    @Html.TextBox("Name", null, new { @class = "form-control", placeholder = "Title", required= "required" })
+                    <span class="form-control-feedback"></span>
+                </div>
+            </div>
+            <div class="form-group">
+                <div class="input-group col-lg-3 has-feedback">
+                    <span class="input-group-addon"><strong>Rs</strong></span>
+                    @Html.TextBox("Price", null, new { @class = "form-control", type = "number", min = "0", placeholder = "Price", required = "required" })
+                    <span class="form-control-feedback"></span>
+                </div>
+            </div>
+            <div class="form-group">
+                <div class="input-group col-lg-4">
+                    <span class="input-group-addon"><strong>LaunchDate</strong></span>
+                    @Html.TextBox("LaunchDate", null, new { @class = "form-control", type = "date", placeholder = "Launching Date", required = "required" })
+                    <span class="form-control-feedback"><span class="glyphicon glyphicon-check"></span></span>
+                </div>
+            </div>
+            <div class="form-group form-inline">
+                <div class="input-group">
+                    <div><label for="sizes" style="font-weight:normal">Size Offered</label></div>
+                    <div>
+                        @Html.ListBox("Sizes", (IEnumerable<SelectListItem>)ViewBag.SizesList, new { multiple = "multiple", style = "width:200px", size = "5" })
+                    </div>
+                </div>
+                &nbsp;&nbsp;
+                <div class="input-group">
+                    <div><label for="sizes" style="font-weight:normal">Available Colors</label></div>
+                    <div>
+                        @Html.ListBox("Colors", (IEnumerable<SelectListItem>)ViewBag.ColorsList, new { multiple = "multiple", style = "width:200px", size = "5" })
+                    </div>
+                </div>
+            </div>
+
+            <div class="form-group">
+                <div><label for="fabric" style="font-weight:normal">Available Fabrics</label></div>
+                <div class="radio">
+                    @foreach (var f in (IEnumerable<SelectListItem>)ViewBag.FabricsList)
+                    {
+                        <label><input name="Fabric" type="radio" value="@f.Value"> @f.Text&nbsp; &nbsp;</label>
+                    }
+                </div>
+            </div>
+        </div>
+        
+        <div id="despane" class="tab-pane mytabpane">
+            @Html.TextArea("Description", new { @rows = "20", @class = "form-control" })
+        </div>
+        <div id="imgpane" class="tab-pane mytabpane">
+            <input type="file" name="photo1" />
+            <input type="file" name="photo2" />
+            <input type="file" name="photo3" />
+            <input type="file" name="photo4" />
+        </div>
+    </div>
+
+    <div class="form-group" style="margin-top:15px;">
+        <button type="submit" class="btn btn-primary"><span class="glyphicon glyphicon-floppy-save"></span>&nbsp; Save</button>
+        <button type="reset" class="btn btn-default"><span class="glyphicon glyphicon-refresh"></span>&nbsp; Cancel</button>
+    </div>
+}
+

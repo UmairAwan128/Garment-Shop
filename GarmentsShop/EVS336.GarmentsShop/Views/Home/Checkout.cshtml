@@ -1,0 +1,116 @@
+﻿@model EVS336.GarmentsShop.Models.CheckoutViewModel
+
+@{
+    ViewBag.Title = "Checkout Page";
+    Layout = "~/Views/Shared/_ShopLayoutPage.cshtml";
+}
+
+@{
+    float GrandTotal = 0;
+}
+
+
+@if (Model != null)
+{
+
+    if (Model.CartProducts != null && Model.CartProducts.Count > 0)
+    {
+
+
+        <table id="tblCheckOut" class="table table-bordered">
+            <thead>
+                <tr class="bg-primary">
+                    <th colspan="6"><h3>@ViewBag.Title &nbsp;&nbsp;</h3> </th>
+                </tr>
+                <tr class="bg-primary">
+                    <th class="col-lg-2">Product</th>
+                    <th class="col-lg-2">Name</th>
+                    <th class="col-lg-2">Price</th>
+                    <th class="col-lg-2">Quantity</th>
+                    <th class="col-lg-2">Subtotal</th>
+                    <th class="col-lg-2">Actions</th>
+                </tr>
+            </thead>
+            <tbody id="tblbdyCheckOutitems">
+                @foreach (var product in Model.CartProducts)
+                {
+                    //CartProductIDs have list of all IDs user wants to buy we use it to count quantity of each product so
+                    //first from the List CartProductIDs we applied condition to select specific or same productId using where then we counted them
+                    // so Where(cartProductId => cartProductId == product.Id) in this case from CartProductIDs pick first Id and place it
+                    // in cartProductId then compare it with product.Id i.e the current product in loop then select the 2nd cartProductId
+                    //from CartProductIDs and compare it with the product.Id and soon till we compare each id in CartProductIDs with current product.Id
+                    //and at last we count the quantity
+
+                    var productQuantity = 0;
+
+                    for (int j = 0; j < Model.CartProductIDs.Count; j++)
+                    {
+
+                        if (product.Id == Model.CartProductIDs[j])
+                        {
+                            productQuantity = productQuantity + 1;
+                        }
+                    }
+
+                    GrandTotal = GrandTotal + (product.Price * productQuantity);
+
+                    <tr class="dgdatarow" data-categoryid="@product.Id">
+                        <td class="col-lg-2"><img style=" width:60px; height:60px" class=" center-block" src="@((product.ProductImages.Count() > 0) ? product.ProductImages.First().Url : "/images/products/nophoto.png")" alt="@product.Name" class="dgicon" /></td>
+                        <td class="col-lg-2">@product.Name</td>
+                        <td class="col-lg-2">@product.Price</td>
+                        <td class="col-lg-2">@productQuantity</td>
+                        <td class="col-lg-2">@(product.Price * productQuantity)</td>
+                        <td class="col-lg-2">
+                            <button class="btn btn-md btn-danger dgdeletebtn"><span class="glyphicon glyphicon-trash"></span></button>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+
+        <div class="row text-center">
+            <div class="col-lg-9 col-md-9 col-sm-9">
+                <h1 class="text-left">Total <strong>Rs.@GrandTotal</strong></h1>
+            </div>
+            <div class="col-lg-2 col-md-2 col-sm-2 pull-right">
+                <button type="button" id="Checkout" class="btn btn-success btn-block btn-lg">
+                    Checkout
+                </button>
+            </div>
+        </div>
+
+
+    }
+    else
+    {
+        <div class="row text-center">
+            <h1 class="text-Center">No <strong>Products Added</strong> To Cart</h1>
+        </div>
+
+    }
+
+}
+
+
+@section myscript{
+
+    <script type="text/javascript">
+
+        $(function () {
+            $("#Checkout").click(function () {
+                $.ajax(
+                    {
+                        url: "/Home/PostOrder/"
+                    }
+                ).done(function (dropDown) {
+
+                    $(".dropDownListNav").html(dropDown);
+
+                });
+            });
+
+        });
+
+    </script>
+ }
+            

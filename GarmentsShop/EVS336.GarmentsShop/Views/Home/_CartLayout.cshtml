@@ -1,0 +1,97 @@
+﻿@using EVS336.GarmentsShop.Models
+
+@{
+var CartProduct = (CartModel)ViewBag.ProductSel;
+}
+
+
+@using (Html.BeginForm("CartItem", "Cart", FormMethod.Post, new { id = "createcart", enctype = "multipart/form-data" }))
+{
+
+    <div class="row">
+        <div class="col-md-12">
+            <div class="row">
+                <div class="col-md-6 col-lg-6">
+                    
+                        <input class="CartProductID" type="hidden" name="Id" value="@CartProduct.ID" />
+
+                        <h5 style="margin-left:30px">PRODUCT IMAGE</h5>
+
+                        <div>
+                            <div class="row">
+                                <div class="col-md-9 col-lg-9" >
+                                    <img id="mainimage" src="@CartProduct.ProductImg[0].Url" class="img-responsive" style="height:400px;width:300px" alt="p1" />
+                                </div>
+                                <div class="col-md-3 col-lg-3">
+                                    @foreach(var image in CartProduct.ProductImg)
+                                    {
+                                        <img src="@image.Url" class="img-responsive smallImage" style="height:133px;width:100px" alt="p1" />
+                                    }
+                                </div>
+
+                            </div>
+                        </div>
+                            </div>
+
+                <div class="col-md-6 col-lg-6">
+                    <div>
+                        <h6 style="font-weight:bold; font-size:15px">Name&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </h6> @CartProduct.Name
+                    </div>
+
+                    <h6 style="font-weight:bold;margin-top:30px;font-family:Arial;font-size:15px" class="prodsum-price">Price&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </h6> @CartProduct.Price
+
+                    <div class="form-group form-inline" style="margin-top:30px">
+                        <div class="form-group form-inline">
+                            <div class="input-group col-lg-4">
+                                <label style="font-weight:normal">Select Color</label>
+                                <div>
+                                    <select id="Colors" name="Colors" size="5" style="width:200px">
+                                        @foreach (var color in CartProduct.ColorList)
+                                        {
+                                            <option value="@color.Id">@color.Name</option>
+                                        }
+                                    </select>
+                                    @*@Html.ListBox("Colors", (IEnumerable<SelectListItem>)ViewBag.ColorsList, new { multiple = "multiple", style = "width:200px", size = "5" })*@
+                                </div>
+                            </div>
+                            <div class="input-group col-lg-4" style="margin-left:5px;">
+                                <label style="font-weight:normal">Select size</label>
+                                <div>
+                                    <select id="Sizes" name="Sizes" size="5" style="width:200px">
+                                        @foreach (var size in CartProduct.SizeList)
+                                        {
+                                            <option value="@size.Id">@size.Name</option>
+                                        }
+                                    </select>
+                                    @* @Html.ListBox("Sizes", (IEnumerable<SelectListItem>)ViewBag.SizeList, new { style = "width:200px", size = "5" })*@
+                                </div>
+                            </div>
+                        </div>
+
+                        <div style="margin-top:30px">
+                            <h6 style="font-weight:bold; font-size:15px">Description</h6>
+                        </div>
+
+                        <div>
+                            <h5>@CartProduct.Discription</h5>
+                        </div>
+
+
+                        <div style="margin-top:20px">
+                            <h6 style="font-weight:bold; font-size:15px">Fabric&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </h6> @CartProduct.Fabric.Name
+                        </div>
+
+                        <div id="btn1">
+                            <div class="btn AddcartBtn" Id="@CartProduct.ID" style="background-color:black;color:white;margin-top:40px;width:150px">ADD TO CART</div>
+                        </div>
+
+                    </div>
+
+                </div>
+                        </div>
+            </div>
+        </div>
+        
+}
+
+

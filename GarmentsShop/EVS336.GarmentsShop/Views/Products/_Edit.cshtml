@@ -1,0 +1,116 @@
+﻿@using EVS336.GarmentsShop.Models.Products
+@model ProductModel
+
+@{ 
+    var sizes = Model.SizesOfferedId.ToList();
+}
+
+@using (Html.BeginForm("edit", "products", FormMethod.Post, new { id = "createproduct", enctype = "multipart/form-data" }))
+{
+    <ul class="nav nav-tabs">
+        <li class="active"><a href="#genpane" data-toggle="tab"><span class="glyphicon glyphicon-grain"></span> General</a></li>
+        <li><a href="#despane" data-toggle="tab"><span class="glyphicon glyphicon-edit"></span> Description</a></li>
+        <li><a href="#imgpane" data-toggle="tab"><span class="glyphicon glyphicon-picture"></span> Images</a></li>
+    </ul>
+    <div class="tab-content">
+
+        <div id="genpane" class="tab-pane mytabpane active">
+            <div class="form-group form-inline">
+                <input type="hidden" name="Id" value="@Model.Id" />
+
+                <div class="input-group">
+                    <span class="input-group-addon"><span class="glyphicon glyphicon-tags"></span></span>
+                    @Html.DropDownListFor(m => m.DepartmentId, (IEnumerable<SelectListItem>)ViewBag.DepartmentList, "- Select Departments -", new { @class = "form-control" })
+                </div>
+                &nbsp;
+                <div id="categoriesdiv" class="input-group">
+                    @Html.DropDownListFor(m => m.CategoryId, (IEnumerable<SelectListItem>)ViewBag.CategoryList, "- Select Category -", new { @class = "form-control" })
+
+                </div>
+                <div id="subcategoriesdiv" class="input-group">
+                    @Html.DropDownListFor(m => m.SubCategoryId, (IEnumerable<SelectListItem>)ViewBag.SubCategoryList, "- Select SubCategory -", new { @class = "form-control" })
+                </div>
+            </div>
+            <div class="form-group">
+                <div class="input-group has-feedback">
+                    <span class="input-group-addon"><span class="glyphicon glyphicon-edit"></span></span>
+                    @Html.TextBox("Name", Model.Name, new { @class = "form-control", placeholder = "Title", required = "required" })
+                    <span class="form-control-feedback"></span>
+                </div>
+            </div>
+            <div class="form-group">
+                <div class="input-group col-lg-3 has-feedback">
+                    <span class="input-group-addon"><strong>Rs</strong></span>
+                    @Html.TextBox("Price", Model.Price, new { @class = "form-control", type = "number", min = "0", placeholder = "Price", required = "required" })
+                    <span class="form-control-feedback"></span>
+                </div>
+            </div>
+            <div class="form-group">
+                <div class="input-group col-lg-4">
+                    <span class="input-group-addon"><strong>Date</strong></span>
+                    @Html.TextBox("LaunchDate", DateTime.Today.ToString("yy-MM-dd"), new { @class = "form-control", type = "date", placeholder = "Launching Date", required = "required" })
+                    <span class="form-control-feedback"><span class="glyphicon glyphicon-check"></span></span>
+                </div>
+
+            </div>
+            <div class="form-group form-inline">
+                <div class="input-group">
+                    <div><label for="sizes" style="font-weight:normal">Size Offered</label></div>
+                    <div>
+                        @Html.ListBoxFor(m=>m.SizesOfferedId, (IEnumerable<SelectListItem>)ViewBag.SizesList, new { multiple = "multiple", style = "width:200px", size = "5" })
+                    </div>
+                </div>
+                &nbsp;&nbsp;
+                <div class="input-group">
+                    <div><label for="sizes" style="font-weight:normal">Available Colors</label></div>
+                    <div>
+                        @Html.ListBoxFor(m => m.ColorsOfferedId , (IEnumerable<SelectListItem>)ViewBag.ColorsList, new { multiple = "multiple", style = "width:200px", size = "5" })
+                    </div>
+                </div>
+            </div>
+
+            <div class="form-group">
+                <div><label for="fabric" style="font-weight:normal">Available Fabrics</label></div>
+                <div class="radio">
+                    @foreach (var f in (IEnumerable<SelectListItem>)ViewBag.FabricsList)
+                    {
+                        if (Convert.ToInt32(f.Value) == Model.FabricId)
+                        {
+                            <label><input name="Fabric" type="radio" checked value="@f.Value"> @f.Text&nbsp; &nbsp;</label>
+                        }
+                        else
+                        {
+                            <label><input name="Fabric" type="radio" value="@f.Value"> @f.Text&nbsp; &nbsp;</label>
+                        }
+                    }
+                </div>
+            </div>
+        </div>
+        <div id="despane" class="tab-pane mytabpane">
+            @Html.TextArea("Description", Model.Description, new { @rows = "20", @class = "form-control" })
+        </div>
+        <div id="imgpane" class="tab-pane mytabpane">
+                @{  var ProductImgaes = Model.ProductImages.ToArray();   }
+                
+               @for (int i=0; i< Model.ProductImages.Count; i++)
+                {
+                    <input type="file" value="@ProductImgaes[i].Url" class="imageUpload" Id="@i" accept=".png, .jpg" name=@("photo"+i) />
+                    <img src="@ProductImgaes[i].Url" class="img-responsive productImage" id="@("productImage"+i)" style=" display:block; width: 350px; height: 300px " alt="p1" />
+                }
+            @for (int i = Model.ProductImages.Count; i < 4; i++)
+            {
+                <input type="file" value="" name=@("photo"+i) class="imageUpload" Id="@i" accept=".png, .jpg" />
+                <img src="" class="img-responsive " id="@("productImage"+i)" style="display:none; width: 350px; height: 300px " alt="p1" />
+
+            }
+
+        </div>
+    
+    </div>
+
+    <div class="form-group" style="margin-top:15px;">
+        <button type="submit" class="btn btn-primary"><span class="glyphicon glyphicon-floppy-save"></span>&nbsp; Save</button>
+        <button type="reset" class="btn btn-default"><span class="glyphicon glyphicon-refresh"></span>&nbsp; Cancel</button>
+    </div>
+}
+

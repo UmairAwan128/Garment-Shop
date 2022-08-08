@@ -1,0 +1,59 @@
+﻿@{
+    //List<string> names = new List<string>();
+    //names.Add("ali");
+    //names.Add("imran");
+    //names.Add("kashif");
+
+    //string msg = Convert.ToString(TempData["Message"]);
+    string msg = ViewBag.Message;
+
+
+}
+
+@using EVS336.GarmentsShop.Models
+@model IndexModel
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <title>Index</title>
+</head>
+<body>
+    <h1>ASP .NET MVC Demo</h1>
+    <div>
+        @msg
+    </div>
+    <div>
+        This demo is created to demonstrate basics of ASP .NET MVC
+    </div>
+
+    <h2>@Model.CategoryName</h2>
+    <div>
+        <p>List of products</p>
+        <ul>
+            @foreach (var pn in Model.ProductNames)
+            {
+                <li>@pn</li>
+            }
+        </ul>
+    </div>
+
+
+    @*@if (names != null)
+    {
+        <div>
+            <h2>List of customers is given bellow:</h2>
+            <ul>
+                @foreach (var n in names)
+                {
+                    <li>@n</li>
+                }
+            </ul>
+        </div>
+    }*@
+    <div>
+        This page is generated at @DateTime.Now.ToString("hh:mm:ss");
+    </div>
+</body>
+</html>

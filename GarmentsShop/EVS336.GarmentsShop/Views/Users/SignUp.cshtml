@@ -1,0 +1,117 @@
+﻿
+@using (Html.BeginForm("SignUp", "Users", FormMethod.Post, new { id = "signUpForm", enctype = "multipart/form-data" }))
+{
+    <ul class="nav nav-tabs">
+        <li class="active"><a href="#page1" data-toggle="tab"><span class="glyphicon glyphicon-grain"></span> General</a></li>
+        <li><a href="#page2" data-toggle="tab"><span class="glyphicon glyphicon-edit"></span> Additional</a></li>
+    </ul>
+
+    <div class="tab-content">
+     
+        <div id="page1" class="tab-pane mytabpane active">
+
+            <div class="form-group">
+                <div class="input-group has-feedback">
+                    <span class="input-group-addon"><span class="glyphicon glyphicon-edit"></span></span>
+                    @Html.TextBox("LoginId", null, new { @class = "form-control", placeholder = "LoginId", required = "required" })
+                    <span class="form-control-feedback"></span>
+                </div>
+            </div>
+
+            <div class="form-group">
+                <div class="input-group has-feedback">
+                    <span class="input-group-addon"><span class="glyphicon glyphicon-lock"></span></span>
+                    @Html.Password("Password", null, new { placeholder = "Password", @class = "form-control", required = "required" })
+                    <span class="form-control-feedback"></span>
+                </div>
+            </div>
+
+            <div class="input-group has-feedback form-group">
+                <span class="input-group-addon"><span class="glyphicon glyphicon-edit"></span></span>
+                @Html.TextBox("Name", null, new { @class = "form-control", placeholder = "Name", required = "required" })
+                <span class="form-control-feedback"></span>
+            </div>
+
+
+            <div class="form-group form-inline">
+
+                <div class="form-group">
+                    <div class="input-group has-feedback">
+                        <span class="input-group-addon"><span class="glyphicon glyphicon-edit"></span></span>
+                        @Html.TextBox("Email", null, new { @class = "form-control", placeholder = "Email", required = "required" })
+                        <span class="form-control-feedback"></span>
+                    </div>
+                </div>
+                &nbsp;&nbsp;&nbsp;
+                <div class="form-group">
+                    <div class="input-group">
+                        <span class="input-group-addon"><span class="glyphicon glyphicon-phone"></span></span>
+                        @Html.TextBox("ContactNumber", null, new { placeholder = "ContactNumber", @class = "form-control" })
+                        <span class="form-control-feedback"></span>
+                    </div>
+                </div>
+                &nbsp;&nbsp;&nbsp;
+                <div class="form-group">
+                    <div class="input-group">
+                        <span class="input-group-addon"><span class="glyphicon glyphicon-user"></span></span>
+                        @Html.DropDownList("Role", (IEnumerable<SelectListItem>)ViewBag.rolesList, "- Select Role -", new { @class = "form-control" })
+                    </div>
+                </div>
+            </div>
+
+            
+            <div class="form-group">
+                <div class="input-group">
+                    <span class="input-group-addon"><span class="glyphicon glyphicon-user"></span>&nbsp; &nbsp;Profile Pic</span>
+                    <input class="form-control imageUpload" name="Image" type="file" accept=".png, .jpg" />
+                </div>
+                <img src="" class="img-responsive " id="ProfilePic" style="display:none; width: 250px; height: 200px " alt="p1" />
+            </div>
+            </div>
+        
+        <div id="page2" class="tab-pane mytabpane ">
+
+            <div class="form-group form-inline">
+                <div class="input-group">
+                    <span class="input-group-addon"><span class="glyphicon glyphicon-tags"></span></span>
+                    @Html.DropDownList("Country", (IEnumerable<SelectListItem>)ViewBag.CountriesList, "- Select Country -", new { @class = "form-control" })
+                </div>
+                &nbsp;&nbsp;&nbsp;
+                <div id="provincediv" class="input-group">
+                </div>
+                &nbsp;&nbsp;&nbsp;
+                <div id="citydiv" class="input-group">
+                </div>
+            </div>
+
+
+            <div class="input-group has-feedback form-group">
+                <span class="input-group-addon"><span class="glyphicon glyphicon-edit"></span></span>
+                @Html.TextBox("StreetAddress", null, new { @class = "form-control", placeholder = "StreetAddress", required = "required" })
+                <span class="form-control-feedback"></span>
+            </div>
+            
+
+            <div class="form-group">
+                <div class="input-group col-lg-4">
+                    <span class="input-group-addon"><strong>DOB</strong></span>
+                    @Html.TextBox("BirthDate", null, new { @class = "form-control", type = "date", placeholder = "Birth Date", required = "required" })
+                    <span class="form-control-feedback"><span class="glyphicon glyphicon-check"></span></span>
+                </div>
+            </div>
+
+                <h4> Security Question</h4>
+                @Html.TextArea("SecurityQuestion", new { @rows = "1", @class = "form-control" })
+                <h4> Security Answer</h4>
+                @Html.TextArea("SecurityAnswer", new { @rows = "3", @class = "form-control" })
+            
+        </div>
+
+    </div>
+
+    <div class="form-group" style="margin-top:15px;">
+            <button type="submit" class="btn btn-primary"><span class="glyphicon glyphicon-floppy-save"></span>&nbsp; Save</button>
+            <button type="reset" class="btn btn-default"><span class="glyphicon glyphicon-refresh"></span>&nbsp; Cancel</button>
+        </div>
+ }
+

@@ -1,0 +1,76 @@
+﻿@using EVS336.GarmentsShop.Models.Products
+@model ProductSearchViewModel
+
+<form method="post">
+
+    <div class="row ">
+        <div class="col-md-9  form-group">
+            <input name="Search" id="searchTxt" class="form-control" placeholder="Enter something" value="@Model.searchTerm">
+        </div>
+        <div class="col-md-3">
+            <button type="button" class="btn btn-primary" id="searchBtn">Search</button>
+            <button type="button" class="btn btn-primary" id="resetBtn">Reset</button>
+        </div>
+    </div>
+
+</form>
+
+<table id="tblcategories" class="table table-bordered">
+    <thead>
+        <tr class="bg-primary">
+            <th colspan="4">
+                <span>@ViewBag.Title &nbsp;&nbsp; <span class="hidden-print">[ <a id="createlink" href="/products/create">Add New</a> ]</span></span>
+                <button id="printbtn" type="button" class="hidden-print pull-right btn btn-primary btn-xs"><span class="glyphicon glyphicon-print"></span></button>
+                <span class="clearfix"></span>
+            </th>
+        </tr>
+        <tr class="bg-primary">
+            <th class="col-lg-1 col-md-1 hidden-sm hidden-xs">Image</th>
+            <th class="col-lg-5 col-md-1 col-sm-6 hidden-xs">Name</th>
+            <th class="col-lg-2 col-md-1 col-sm-2 hidden-xs">Price</th>
+            <th class="col-lg-4 hidden-print">Actions</th>
+        </tr>
+    </thead>
+    <tbody id="tblbdycountries">
+        @foreach (var m in Model.products)
+        {
+            <tr class="dgdatarow" data-productid="@m.Id">
+                <th class="col-lg-1 col-md-1 hidden-sm col-xs-1 "><img src="@Url.Content(m.ImageUrl)" alt="@m.Name" class="dgicon" /> </th>
+                <td class="col-lg-5 col-md-1 col-sm-6 col-xs-5">@m.Name</td>
+                <td class="col-lg-2 col-md-1 col-sm-2 col-xs-2">@m.Price</td>
+                <td class="col-lg-4 hidden-print">
+                    <button class="btn btn-xs btn-primary dgdetailsbtn"><span class="glyphicon glyphicon-search"></span></button>&nbsp;
+                    <button class="btn btn-xs btn-warning dgeditbtn"><span class="glyphicon glyphicon-edit"></span></button>&nbsp;
+                    <button class="btn btn-xs btn-danger dgdeletebtn"><span class="glyphicon glyphicon-trash"></span></button>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<div>
+
+    @if (Model.pager != null)
+    { //if pagger object is passed then appply pagination
+
+        if (Model.pager.CurrentPage > 1)  //then show previous and First Button otherwise
+        {//don,t show them or they will be hiddent if we are on first page
+            <button class="PageNavigationButton" data-pageNo="1">First</button>
+            <button class="PageNavigationButton" data-pageNo="@( Model.pager.CurrentPage - 1 )">Previous</button>
+        }
+
+        for (int page = Model.pager.StartPage; page <= Model.pager.EndPage; page++)
+        { //page will have the pageNo int and Endpage will have the pageNo of the Last Page
+            string activeClass = Model.pager.CurrentPage == page ? "active bg-info" : string.Empty;
+            <button class=" @activeClass PageNavigationButton" data-pageNo="@page">@page</button>
+        }
+
+        if (Model.pager.CurrentPage < Model.pager.TotalPages)//then show Last and Next Button otherwise
+        {//don,t show them or they will be hiddent if last page
+            <button class="PageNavigationButton" data-pageNo="@( Model.pager.CurrentPage + 1 )">Next</button>
+            <button class="PageNavigationButton" data-pageNo="@( Model.pager.EndPage )">Last</button>
+        }
+
+    }
+</div>
+

@@ -1,0 +1,997 @@
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-06-30(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\EVS336.GarmentsShop.dll.config
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-06-30(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\EVS336.GarmentsShop.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-06-30(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\EVS336.GarmentsShop.pdb
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-06-30(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\csc.exe
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-06-30(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\csc.exe.config
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-06-30(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\csc.rsp
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-06-30(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\csi.exe
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-06-30(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\csi.exe.config
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-06-30(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\csi.rsp
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-06-30(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-06-30(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-06-30(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-06-30(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-06-30(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-06-30(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-06-30(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-06-30(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-06-30(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-06-30(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-06-30(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-06-30(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.AppContext.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-06-30(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.Collections.Immutable.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-06-30(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.Console.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-06-30(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-06-30(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.Diagnostics.Process.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-06-30(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-06-30(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.IO.Compression.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-06-30(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.IO.FileSystem.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-06-30(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-06-30(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-06-30(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.IO.Pipes.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-06-30(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.Reflection.Metadata.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-06-30(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.Security.AccessControl.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-06-30(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.Security.Claims.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-06-30(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-06-30(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-06-30(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-06-30(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-06-30(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-06-30(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-06-30(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.Threading.Thread.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-06-30(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.ValueTuple.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-06-30(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-06-30(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-06-30(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.Xml.XPath.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-06-30(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-06-30(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\vbc.exe
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-06-30(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\vbc.exe.config
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-06-30(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\vbc.rsp
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-06-30(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\VBCSCompiler.exe
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-06-30(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\VBCSCompiler.exe.config
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-06-30(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-06-30(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\Microsoft.Web.Infrastructure.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-06-30(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\System.Web.Helpers.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-06-30(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\System.Web.Mvc.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-06-30(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\System.Web.Razor.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-06-30(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\System.Web.Webpages.Deployment.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-06-30(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\System.Web.Webpages.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-06-30(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\System.Web.Webpages.Razor.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-06-30(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-06-30(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\System.Web.Razor.xml
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-06-30(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\System.Web.Webpages.xml
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-06-30(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\System.Web.Webpages.Deployment.xml
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-06-30(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\System.Web.Webpages.Razor.xml
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-06-30(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\System.Web.Helpers.xml
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-06-30(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\System.Web.Mvc.xml
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-06-30(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\obj\Debug\EVS336.GarmentsShop.csprojResolveAssemblyReference.cache
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-06-30(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\obj\Debug\EVS336.GarmentsShop.csproj.CoreCompileInputs.cache
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-06-30(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\obj\Debug\EVS336.GarmentsShop.csproj.CopyComplete
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-06-30(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\obj\Debug\EVS336.GarmentsShop.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-06-30(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\obj\Debug\EVS336.GarmentsShop.pdb
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-01(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\EVS336.GarmentsShop.dll.config
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-01(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\EVS336.GarmentsShop.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-01(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\EVS336.GarmentsShop.pdb
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-01(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\csc.exe
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-01(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\csc.exe.config
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-01(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\csc.rsp
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-01(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\csi.exe
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-01(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\csi.exe.config
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-01(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\csi.rsp
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-01(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-01(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-01(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-01(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-01(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-01(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-01(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-01(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-01(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-01(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-01(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-01(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.AppContext.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-01(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.Collections.Immutable.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-01(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.Console.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-01(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-01(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.Diagnostics.Process.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-01(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-01(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.IO.Compression.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-01(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.IO.FileSystem.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-01(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-01(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-01(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.IO.Pipes.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-01(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.Reflection.Metadata.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-01(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.Security.AccessControl.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-01(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.Security.Claims.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-01(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-01(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-01(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-01(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-01(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-01(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-01(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.Threading.Thread.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-01(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.ValueTuple.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-01(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-01(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-01(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.Xml.XPath.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-01(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-01(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\vbc.exe
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-01(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\vbc.exe.config
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-01(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\vbc.rsp
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-01(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\VBCSCompiler.exe
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-01(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\VBCSCompiler.exe.config
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-01(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-01(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\Microsoft.Web.Infrastructure.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-01(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\System.Web.Helpers.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-01(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\System.Web.Mvc.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-01(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\System.Web.Razor.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-01(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\System.Web.Webpages.Deployment.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-01(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\System.Web.Webpages.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-01(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\System.Web.Webpages.Razor.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-01(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-01(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\System.Web.Razor.xml
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-01(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\System.Web.Webpages.xml
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-01(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\System.Web.Webpages.Deployment.xml
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-01(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\System.Web.Webpages.Razor.xml
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-01(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\System.Web.Helpers.xml
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-01(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\System.Web.Mvc.xml
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-01(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\obj\Debug\EVS336.GarmentsShop.csprojResolveAssemblyReference.cache
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-01(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\obj\Debug\EVS336.GarmentsShop.csproj.CoreCompileInputs.cache
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-01(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\obj\Debug\EVS336.GarmentsShop.csproj.CopyComplete
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-01(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\obj\Debug\EVS336.GarmentsShop.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-01(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\obj\Debug\EVS336.GarmentsShop.pdb
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-08(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\EVS336.GarmentsShop.dll.config
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-08(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\EVS336.GarmentsShop.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-08(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\EVS336.GarmentsShop.pdb
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-08(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\csc.exe
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-08(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\csc.exe.config
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-08(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\csc.rsp
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-08(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\csi.exe
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-08(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\csi.exe.config
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-08(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\csi.rsp
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-08(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-08(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-08(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-08(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-08(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-08(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-08(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-08(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-08(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-08(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-08(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-08(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.AppContext.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-08(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.Collections.Immutable.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-08(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.Console.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-08(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-08(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.Diagnostics.Process.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-08(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-08(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.IO.Compression.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-08(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.IO.FileSystem.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-08(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-08(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-08(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.IO.Pipes.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-08(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.Reflection.Metadata.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-08(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.Security.AccessControl.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-08(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.Security.Claims.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-08(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-08(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-08(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-08(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-08(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-08(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-08(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.Threading.Thread.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-08(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.ValueTuple.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-08(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-08(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-08(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.Xml.XPath.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-08(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-08(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\vbc.exe
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-08(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\vbc.exe.config
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-08(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\vbc.rsp
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-08(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\VBCSCompiler.exe
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-08(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\VBCSCompiler.exe.config
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-08(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-08(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\Microsoft.Web.Infrastructure.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-08(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\System.Web.Helpers.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-08(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\System.Web.Mvc.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-08(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\System.Web.Razor.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-08(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\System.Web.Webpages.Deployment.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-08(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\System.Web.Webpages.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-08(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\System.Web.Webpages.Razor.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-08(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-08(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\System.Web.Razor.xml
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-08(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\System.Web.Webpages.xml
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-08(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\System.Web.Webpages.Deployment.xml
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-08(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\System.Web.Webpages.Razor.xml
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-08(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\System.Web.Helpers.xml
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-08(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\System.Web.Mvc.xml
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-08(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\obj\Debug\EVS336.GarmentsShop.csprojResolveAssemblyReference.cache
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-08(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\obj\Debug\EVS336.GarmentsShop.csproj.CoreCompileInputs.cache
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-08(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\obj\Debug\EVS336.GarmentsShop.csproj.CopyComplete
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-08(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\obj\Debug\EVS336.GarmentsShop.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-08(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\obj\Debug\EVS336.GarmentsShop.pdb
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-08(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\EntityFramework.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-08(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\EntityFramework.SqlServer.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-08(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\EVS336.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-08(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\EVS336.pdb
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-08(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\EntityFramework.xml
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-08(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\EntityFramework.SqlServer.xml
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-15(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\EVS336.GarmentsShop.dll.config
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-15(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\EVS336.GarmentsShop.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-15(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\EVS336.GarmentsShop.pdb
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-15(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\csc.exe
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-15(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\csc.exe.config
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-15(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\csc.rsp
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-15(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\csi.exe
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-15(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\csi.exe.config
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-15(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\csi.rsp
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-15(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-15(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-15(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-15(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-15(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-15(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-15(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-15(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-15(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-15(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-15(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-15(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.AppContext.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-15(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.Collections.Immutable.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-15(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.Console.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-15(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-15(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.Diagnostics.Process.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-15(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-15(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.IO.Compression.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-15(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.IO.FileSystem.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-15(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-15(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-15(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.IO.Pipes.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-15(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.Reflection.Metadata.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-15(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.Security.AccessControl.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-15(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.Security.Claims.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-15(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-15(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-15(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-15(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-15(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-15(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-15(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.Threading.Thread.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-15(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.ValueTuple.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-15(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-15(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-15(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.Xml.XPath.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-15(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-15(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\vbc.exe
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-15(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\vbc.exe.config
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-15(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\vbc.rsp
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-15(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\VBCSCompiler.exe
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-15(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\VBCSCompiler.exe.config
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-15(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\EntityFramework.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-15(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\EntityFramework.SqlServer.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-15(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\EVS336.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-15(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-15(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\Microsoft.Web.Infrastructure.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-15(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\System.Web.Helpers.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-15(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\System.Web.Mvc.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-15(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\System.Web.Razor.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-15(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\System.Web.Webpages.Deployment.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-15(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\System.Web.Webpages.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-15(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\System.Web.Webpages.Razor.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-15(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\EVS336.pdb
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-15(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\EntityFramework.xml
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-15(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\EntityFramework.SqlServer.xml
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-15(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-15(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\System.Web.Razor.xml
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-15(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\System.Web.Webpages.xml
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-15(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\System.Web.Webpages.Deployment.xml
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-15(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\System.Web.Webpages.Razor.xml
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-15(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\System.Web.Helpers.xml
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-15(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\System.Web.Mvc.xml
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-15(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\obj\Debug\EVS336.GarmentsShop.csprojResolveAssemblyReference.cache
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-15(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\obj\Debug\EVS336.GarmentsShop.csproj.CoreCompileInputs.cache
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-15(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\obj\Debug\EVS336.GarmentsShop.csproj.CopyComplete
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-15(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\obj\Debug\EVS336.GarmentsShop.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-15(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\obj\Debug\EVS336.GarmentsShop.pdb
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-21(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\EVS336.GarmentsShop.dll.config
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-21(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\EVS336.GarmentsShop.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-21(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\EVS336.GarmentsShop.pdb
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-21(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\csc.exe
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-21(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\csc.exe.config
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-21(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\csc.rsp
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-21(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\csi.exe
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-21(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\csi.exe.config
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-21(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\csi.rsp
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-21(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-21(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-21(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-21(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-21(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-21(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-21(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-21(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-21(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-21(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-21(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-21(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.AppContext.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-21(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.Collections.Immutable.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-21(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.Console.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-21(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-21(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.Diagnostics.Process.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-21(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-21(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.IO.Compression.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-21(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.IO.FileSystem.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-21(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-21(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-21(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.IO.Pipes.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-21(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.Reflection.Metadata.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-21(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.Security.AccessControl.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-21(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.Security.Claims.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-21(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-21(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-21(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-21(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-21(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-21(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-21(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.Threading.Thread.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-21(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.ValueTuple.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-21(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-21(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-21(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.Xml.XPath.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-21(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-21(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\vbc.exe
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-21(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\vbc.exe.config
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-21(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\vbc.rsp
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-21(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\VBCSCompiler.exe
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-21(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\VBCSCompiler.exe.config
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-21(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\EntityFramework.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-21(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\EntityFramework.SqlServer.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-21(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\EVS336.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-21(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-21(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\Microsoft.Web.Infrastructure.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-21(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\System.Web.Helpers.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-21(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\System.Web.Mvc.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-21(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\System.Web.Razor.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-21(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\System.Web.Webpages.Deployment.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-21(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\System.Web.Webpages.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-21(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\System.Web.Webpages.Razor.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-21(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\EVS336.pdb
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-21(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\EntityFramework.xml
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-21(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\EntityFramework.SqlServer.xml
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-21(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-21(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\System.Web.Razor.xml
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-21(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\System.Web.Webpages.xml
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-21(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\System.Web.Webpages.Deployment.xml
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-21(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\System.Web.Webpages.Razor.xml
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-21(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\System.Web.Helpers.xml
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-21(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\System.Web.Mvc.xml
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-21(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\obj\Debug\EVS336.GarmentsShop.csprojResolveAssemblyReference.cache
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-21(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\obj\Debug\EVS336.GarmentsShop.csproj.CoreCompileInputs.cache
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-21(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\obj\Debug\EVS336.GarmentsShop.csproj.CopyComplete
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-21(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\obj\Debug\EVS336.GarmentsShop.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-21(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\obj\Debug\EVS336.GarmentsShop.pdb
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-22(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\EVS336.GarmentsShop.dll.config
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-22(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\EVS336.GarmentsShop.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-22(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\EVS336.GarmentsShop.pdb
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-22(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\csc.exe
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-22(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\csc.exe.config
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-22(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\csc.rsp
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-22(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\csi.exe
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-22(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\csi.exe.config
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-22(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\csi.rsp
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-22(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-22(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-22(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-22(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-22(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-22(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-22(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-22(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-22(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-22(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-22(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-22(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.AppContext.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-22(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.Collections.Immutable.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-22(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.Console.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-22(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-22(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.Diagnostics.Process.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-22(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-22(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.IO.Compression.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-22(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.IO.FileSystem.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-22(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-22(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-22(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.IO.Pipes.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-22(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.Reflection.Metadata.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-22(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.Security.AccessControl.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-22(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.Security.Claims.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-22(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-22(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-22(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-22(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-22(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-22(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-22(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.Threading.Thread.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-22(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.ValueTuple.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-22(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-22(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-22(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.Xml.XPath.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-22(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-22(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\vbc.exe
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-22(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\vbc.exe.config
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-22(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\vbc.rsp
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-22(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\VBCSCompiler.exe
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-22(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\VBCSCompiler.exe.config
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-22(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\EntityFramework.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-22(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\EntityFramework.SqlServer.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-22(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\EVS336.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-22(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-22(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\Microsoft.Web.Infrastructure.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-22(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\System.Web.Helpers.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-22(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\System.Web.Mvc.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-22(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\System.Web.Razor.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-22(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\System.Web.Webpages.Deployment.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-22(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\System.Web.Webpages.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-22(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\System.Web.Webpages.Razor.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-22(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\EVS336.pdb
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-22(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\EntityFramework.xml
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-22(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\EntityFramework.SqlServer.xml
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-22(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-22(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\System.Web.Razor.xml
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-22(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\System.Web.Webpages.xml
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-22(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\System.Web.Webpages.Deployment.xml
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-22(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\System.Web.Webpages.Razor.xml
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-22(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\System.Web.Helpers.xml
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-22(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\System.Web.Mvc.xml
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-22(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\obj\Debug\EVS336.GarmentsShop.csprojResolveAssemblyReference.cache
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-22(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\obj\Debug\EVS336.GarmentsShop.csproj.CoreCompileInputs.cache
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-22(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\obj\Debug\EVS336.GarmentsShop.csproj.CopyComplete
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-22(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\obj\Debug\EVS336.GarmentsShop.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-22(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\obj\Debug\EVS336.GarmentsShop.pdb
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-29(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\EVS336.GarmentsShop.dll.config
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-29(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\EVS336.GarmentsShop.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-29(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\EVS336.GarmentsShop.pdb
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-29(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\csc.exe
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-29(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\csc.exe.config
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-29(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\csc.rsp
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-29(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\csi.exe
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-29(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\csi.exe.config
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-29(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\csi.rsp
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-29(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-29(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-29(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-29(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-29(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-29(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-29(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-29(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-29(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-29(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-29(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-29(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.AppContext.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-29(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.Collections.Immutable.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-29(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.Console.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-29(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-29(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.Diagnostics.Process.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-29(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-29(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.IO.Compression.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-29(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.IO.FileSystem.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-29(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-29(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-29(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.IO.Pipes.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-29(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.Reflection.Metadata.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-29(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.Security.AccessControl.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-29(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.Security.Claims.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-29(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-29(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-29(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-29(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-29(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-29(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-29(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.Threading.Thread.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-29(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.ValueTuple.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-29(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-29(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-29(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.Xml.XPath.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-29(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-29(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\vbc.exe
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-29(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\vbc.exe.config
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-29(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\vbc.rsp
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-29(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\VBCSCompiler.exe
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-29(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\VBCSCompiler.exe.config
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-29(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\EntityFramework.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-29(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\EntityFramework.SqlServer.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-29(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\EVS336.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-29(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-29(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\Microsoft.Web.Infrastructure.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-29(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\System.Web.Helpers.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-29(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\System.Web.Mvc.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-29(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\System.Web.Razor.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-29(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\System.Web.Webpages.Deployment.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-29(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\System.Web.Webpages.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-29(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\System.Web.Webpages.Razor.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-29(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\EVS336.pdb
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-29(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\EntityFramework.xml
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-29(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\EntityFramework.SqlServer.xml
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-29(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-29(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\System.Web.Razor.xml
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-29(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\System.Web.Webpages.xml
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-29(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\System.Web.Webpages.Deployment.xml
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-29(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\System.Web.Webpages.Razor.xml
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-29(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\System.Web.Helpers.xml
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-29(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\System.Web.Mvc.xml
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-29(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\obj\Debug\EVS336.GarmentsShop.csprojResolveAssemblyReference.cache
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-29(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\obj\Debug\EVS336.GarmentsShop.csproj.CoreCompileInputs.cache
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-29(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\obj\Debug\EVS336.GarmentsShop.csproj.CopyComplete
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-29(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\obj\Debug\EVS336.GarmentsShop.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-29(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\obj\Debug\EVS336.GarmentsShop.pdb
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-04(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\EVS336.GarmentsShop.dll.config
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-04(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\EVS336.GarmentsShop.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-04(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\EVS336.GarmentsShop.pdb
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-04(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\csc.exe
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-04(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\csc.exe.config
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-04(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\csc.rsp
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-04(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\csi.exe
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-04(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\csi.exe.config
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-04(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\csi.rsp
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-04(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-04(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-04(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-04(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-04(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-04(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-04(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-04(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-04(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-04(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-04(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-04(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.AppContext.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-04(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.Collections.Immutable.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-04(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.Console.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-04(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-04(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.Diagnostics.Process.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-04(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-04(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.IO.Compression.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-04(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.IO.FileSystem.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-04(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-04(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-04(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.IO.Pipes.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-04(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.Reflection.Metadata.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-04(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.Security.AccessControl.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-04(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.Security.Claims.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-04(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-04(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-04(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-04(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-04(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-04(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-04(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.Threading.Thread.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-04(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.ValueTuple.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-04(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-04(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-04(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.Xml.XPath.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-04(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-04(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\vbc.exe
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-04(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\vbc.exe.config
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-04(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\vbc.rsp
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-04(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\VBCSCompiler.exe
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-04(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\VBCSCompiler.exe.config
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-04(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\EntityFramework.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-04(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\EntityFramework.SqlServer.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-04(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\EVS336.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-04(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-04(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\Microsoft.Web.Infrastructure.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-04(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\System.Web.Helpers.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-04(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\System.Web.Mvc.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-04(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\System.Web.Razor.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-04(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\System.Web.Webpages.Deployment.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-04(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\System.Web.Webpages.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-04(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\System.Web.Webpages.Razor.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-04(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\EVS336.pdb
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-04(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\EntityFramework.xml
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-04(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\EntityFramework.SqlServer.xml
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-04(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-04(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\System.Web.Razor.xml
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-04(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\System.Web.Webpages.xml
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-04(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\System.Web.Webpages.Deployment.xml
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-04(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\System.Web.Webpages.Razor.xml
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-04(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\System.Web.Helpers.xml
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-04(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\System.Web.Mvc.xml
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-04(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\obj\Debug\EVS336.GarmentsShop.csprojResolveAssemblyReference.cache
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-04(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\obj\Debug\EVS336.GarmentsShop.csproj.CoreCompileInputs.cache
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-04(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\obj\Debug\EVS336.GarmentsShop.csproj.CopyComplete
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-04(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\obj\Debug\EVS336.GarmentsShop.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-04(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\obj\Debug\EVS336.GarmentsShop.pdb
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-05(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\obj\Debug\EVS336.GarmentsShop.csprojAssemblyReference.cache
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-05(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\obj\Debug\EVS336.GarmentsShop.csproj.CoreCompileInputs.cache
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-05(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\obj\Debug\EVS336.GarmentsShop.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-05(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\obj\Debug\EVS336.GarmentsShop.pdb
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-05(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\EVS336.GarmentsShop.dll.config
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-05(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\EVS336.GarmentsShop.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-05(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\EVS336.GarmentsShop.pdb
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-05(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\csc.exe
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-05(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\csc.exe.config
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-05(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\csc.rsp
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-05(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\csi.exe
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-05(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\csi.exe.config
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-05(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\csi.rsp
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-05(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-05(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-05(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-05(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-05(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-05(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-05(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-05(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-05(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-05(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-05(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-05(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.AppContext.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-05(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.Collections.Immutable.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-05(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.Console.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-05(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-05(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.Diagnostics.Process.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-05(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-05(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.IO.Compression.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-05(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.IO.FileSystem.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-05(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-05(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-05(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.IO.Pipes.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-05(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.Reflection.Metadata.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-05(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.Security.AccessControl.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-05(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.Security.Claims.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-05(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-05(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-05(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-05(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-05(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-05(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-05(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.Threading.Thread.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-05(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.ValueTuple.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-05(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-05(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-05(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.Xml.XPath.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-05(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-05(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\vbc.exe
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-05(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\vbc.exe.config
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-05(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\vbc.rsp
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-05(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\VBCSCompiler.exe
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-05(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\VBCSCompiler.exe.config
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-05(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\EntityFramework.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-05(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\EntityFramework.SqlServer.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-05(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\EVS336.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-05(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-05(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\Microsoft.Web.Infrastructure.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-05(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\System.Web.Helpers.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-05(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\System.Web.Mvc.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-05(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\System.Web.Razor.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-05(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\System.Web.Webpages.Deployment.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-05(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\System.Web.Webpages.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-05(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\System.Web.Webpages.Razor.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-05(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\EVS336.pdb
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-05(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\EntityFramework.xml
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-05(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\EntityFramework.SqlServer.xml
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-05(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-05(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\System.Web.Razor.xml
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-05(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\System.Web.Webpages.xml
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-05(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\System.Web.Webpages.Deployment.xml
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-05(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\System.Web.Webpages.Razor.xml
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-05(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\System.Web.Helpers.xml
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-05(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\System.Web.Mvc.xml
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-05(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\obj\Debug\EVS336.GarmentsShop.csproj.CopyComplete
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-12(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\EVS336.GarmentsShop.dll.config
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-12(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\EVS336.GarmentsShop.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-12(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\EVS336.GarmentsShop.pdb
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-12(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\csc.exe
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-12(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\csc.exe.config
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-12(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\csc.rsp
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-12(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\csi.exe
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-12(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\csi.exe.config
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-12(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\csi.rsp
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-12(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-12(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-12(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-12(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-12(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-12(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-12(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-12(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-12(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-12(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-12(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-12(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.AppContext.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-12(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.Collections.Immutable.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-12(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.Console.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-12(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-12(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.Diagnostics.Process.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-12(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-12(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.IO.Compression.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-12(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.IO.FileSystem.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-12(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-12(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-12(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.IO.Pipes.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-12(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.Reflection.Metadata.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-12(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.Security.AccessControl.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-12(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.Security.Claims.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-12(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-12(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-12(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-12(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-12(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-12(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-12(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.Threading.Thread.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-12(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.ValueTuple.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-12(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-12(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-12(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.Xml.XPath.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-12(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-12(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\vbc.exe
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-12(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\vbc.exe.config
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-12(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\vbc.rsp
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-12(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\VBCSCompiler.exe
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-12(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\VBCSCompiler.exe.config
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-12(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\EntityFramework.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-12(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\EntityFramework.SqlServer.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-12(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\EVS336.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-12(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-12(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\Microsoft.Web.Infrastructure.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-12(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\System.Web.Helpers.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-12(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\System.Web.Mvc.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-12(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\System.Web.Razor.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-12(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\System.Web.Webpages.Deployment.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-12(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\System.Web.Webpages.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-12(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\System.Web.Webpages.Razor.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-12(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\EVS336.pdb
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-12(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\EntityFramework.xml
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-12(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\EntityFramework.SqlServer.xml
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-12(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-12(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\System.Web.Razor.xml
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-12(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\System.Web.Webpages.xml
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-12(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\System.Web.Webpages.Deployment.xml
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-12(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\System.Web.Webpages.Razor.xml
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-12(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\System.Web.Helpers.xml
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-12(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\System.Web.Mvc.xml
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-12(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\obj\Debug\EVS336.GarmentsShop.csprojAssemblyReference.cache
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-12(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\obj\Debug\EVS336.GarmentsShop.csproj.CoreCompileInputs.cache
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-12(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\obj\Debug\EVS336.GarmentsShop.csproj.CopyComplete
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-12(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\obj\Debug\EVS336.GarmentsShop.dll
+D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-12(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\obj\Debug\EVS336.GarmentsShop.pdb
+D:\Classes\01Dotnet\Dotnet334\Part03\2018-08-16(334)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\EVS336.GarmentsShop.dll.config
+D:\Classes\01Dotnet\Dotnet334\Part03\2018-08-16(334)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\EVS336.GarmentsShop.dll
+D:\Classes\01Dotnet\Dotnet334\Part03\2018-08-16(334)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\EVS336.GarmentsShop.pdb
+D:\Classes\01Dotnet\Dotnet334\Part03\2018-08-16(334)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\csc.exe
+D:\Classes\01Dotnet\Dotnet334\Part03\2018-08-16(334)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\csc.exe.config
+D:\Classes\01Dotnet\Dotnet334\Part03\2018-08-16(334)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\csc.rsp
+D:\Classes\01Dotnet\Dotnet334\Part03\2018-08-16(334)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\csi.exe
+D:\Classes\01Dotnet\Dotnet334\Part03\2018-08-16(334)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\csi.exe.config
+D:\Classes\01Dotnet\Dotnet334\Part03\2018-08-16(334)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\csi.rsp
+D:\Classes\01Dotnet\Dotnet334\Part03\2018-08-16(334)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Classes\01Dotnet\Dotnet334\Part03\2018-08-16(334)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Classes\01Dotnet\Dotnet334\Part03\2018-08-16(334)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Classes\01Dotnet\Dotnet334\Part03\2018-08-16(334)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Classes\01Dotnet\Dotnet334\Part03\2018-08-16(334)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Classes\01Dotnet\Dotnet334\Part03\2018-08-16(334)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Classes\01Dotnet\Dotnet334\Part03\2018-08-16(334)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Classes\01Dotnet\Dotnet334\Part03\2018-08-16(334)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Classes\01Dotnet\Dotnet334\Part03\2018-08-16(334)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Classes\01Dotnet\Dotnet334\Part03\2018-08-16(334)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Classes\01Dotnet\Dotnet334\Part03\2018-08-16(334)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Classes\01Dotnet\Dotnet334\Part03\2018-08-16(334)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.AppContext.dll
+D:\Classes\01Dotnet\Dotnet334\Part03\2018-08-16(334)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.Collections.Immutable.dll
+D:\Classes\01Dotnet\Dotnet334\Part03\2018-08-16(334)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.Console.dll
+D:\Classes\01Dotnet\Dotnet334\Part03\2018-08-16(334)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Classes\01Dotnet\Dotnet334\Part03\2018-08-16(334)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.Diagnostics.Process.dll
+D:\Classes\01Dotnet\Dotnet334\Part03\2018-08-16(334)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Classes\01Dotnet\Dotnet334\Part03\2018-08-16(334)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.IO.Compression.dll
+D:\Classes\01Dotnet\Dotnet334\Part03\2018-08-16(334)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.IO.FileSystem.dll
+D:\Classes\01Dotnet\Dotnet334\Part03\2018-08-16(334)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\Classes\01Dotnet\Dotnet334\Part03\2018-08-16(334)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Classes\01Dotnet\Dotnet334\Part03\2018-08-16(334)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.IO.Pipes.dll
+D:\Classes\01Dotnet\Dotnet334\Part03\2018-08-16(334)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.Reflection.Metadata.dll
+D:\Classes\01Dotnet\Dotnet334\Part03\2018-08-16(334)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.Security.AccessControl.dll
+D:\Classes\01Dotnet\Dotnet334\Part03\2018-08-16(334)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.Security.Claims.dll
+D:\Classes\01Dotnet\Dotnet334\Part03\2018-08-16(334)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Classes\01Dotnet\Dotnet334\Part03\2018-08-16(334)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Classes\01Dotnet\Dotnet334\Part03\2018-08-16(334)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Classes\01Dotnet\Dotnet334\Part03\2018-08-16(334)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Classes\01Dotnet\Dotnet334\Part03\2018-08-16(334)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Classes\01Dotnet\Dotnet334\Part03\2018-08-16(334)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Classes\01Dotnet\Dotnet334\Part03\2018-08-16(334)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.Threading.Thread.dll
+D:\Classes\01Dotnet\Dotnet334\Part03\2018-08-16(334)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.ValueTuple.dll
+D:\Classes\01Dotnet\Dotnet334\Part03\2018-08-16(334)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Classes\01Dotnet\Dotnet334\Part03\2018-08-16(334)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Classes\01Dotnet\Dotnet334\Part03\2018-08-16(334)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.Xml.XPath.dll
+D:\Classes\01Dotnet\Dotnet334\Part03\2018-08-16(334)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Classes\01Dotnet\Dotnet334\Part03\2018-08-16(334)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\vbc.exe
+D:\Classes\01Dotnet\Dotnet334\Part03\2018-08-16(334)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\vbc.exe.config
+D:\Classes\01Dotnet\Dotnet334\Part03\2018-08-16(334)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\vbc.rsp
+D:\Classes\01Dotnet\Dotnet334\Part03\2018-08-16(334)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\VBCSCompiler.exe
+D:\Classes\01Dotnet\Dotnet334\Part03\2018-08-16(334)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\VBCSCompiler.exe.config
+D:\Classes\01Dotnet\Dotnet334\Part03\2018-08-16(334)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\EntityFramework.dll
+D:\Classes\01Dotnet\Dotnet334\Part03\2018-08-16(334)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\EntityFramework.SqlServer.dll
+D:\Classes\01Dotnet\Dotnet334\Part03\2018-08-16(334)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\EVS336.dll
+D:\Classes\01Dotnet\Dotnet334\Part03\2018-08-16(334)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Classes\01Dotnet\Dotnet334\Part03\2018-08-16(334)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\Microsoft.Web.Infrastructure.dll
+D:\Classes\01Dotnet\Dotnet334\Part03\2018-08-16(334)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\System.Web.Helpers.dll
+D:\Classes\01Dotnet\Dotnet334\Part03\2018-08-16(334)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\System.Web.Mvc.dll
+D:\Classes\01Dotnet\Dotnet334\Part03\2018-08-16(334)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\System.Web.Razor.dll
+D:\Classes\01Dotnet\Dotnet334\Part03\2018-08-16(334)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\System.Web.Webpages.Deployment.dll
+D:\Classes\01Dotnet\Dotnet334\Part03\2018-08-16(334)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\System.Web.Webpages.dll
+D:\Classes\01Dotnet\Dotnet334\Part03\2018-08-16(334)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\System.Web.Webpages.Razor.dll
+D:\Classes\01Dotnet\Dotnet334\Part03\2018-08-16(334)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\EVS336.pdb
+D:\Classes\01Dotnet\Dotnet334\Part03\2018-08-16(334)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\EntityFramework.xml
+D:\Classes\01Dotnet\Dotnet334\Part03\2018-08-16(334)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\EntityFramework.SqlServer.xml
+D:\Classes\01Dotnet\Dotnet334\Part03\2018-08-16(334)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Classes\01Dotnet\Dotnet334\Part03\2018-08-16(334)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\System.Web.Razor.xml
+D:\Classes\01Dotnet\Dotnet334\Part03\2018-08-16(334)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\System.Web.Webpages.xml
+D:\Classes\01Dotnet\Dotnet334\Part03\2018-08-16(334)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\System.Web.Webpages.Deployment.xml
+D:\Classes\01Dotnet\Dotnet334\Part03\2018-08-16(334)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\System.Web.Webpages.Razor.xml
+D:\Classes\01Dotnet\Dotnet334\Part03\2018-08-16(334)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\System.Web.Helpers.xml
+D:\Classes\01Dotnet\Dotnet334\Part03\2018-08-16(334)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\System.Web.Mvc.xml
+D:\Classes\01Dotnet\Dotnet334\Part03\2018-08-16(334)\EVS336.GarmentsShop\EVS336.GarmentsShop\obj\Debug\EVS336.GarmentsShop.csprojAssemblyReference.cache
+D:\Classes\01Dotnet\Dotnet334\Part03\2018-08-16(334)\EVS336.GarmentsShop\EVS336.GarmentsShop\obj\Debug\EVS336.GarmentsShop.csproj.CoreCompileInputs.cache
+D:\Classes\01Dotnet\Dotnet334\Part03\2018-08-16(334)\EVS336.GarmentsShop\EVS336.GarmentsShop\obj\Debug\EVS336.GarmentsShop.csproj.CopyComplete
+D:\Classes\01Dotnet\Dotnet334\Part03\2018-08-16(334)\EVS336.GarmentsShop\EVS336.GarmentsShop\obj\Debug\EVS336.GarmentsShop.dll
+D:\Classes\01Dotnet\Dotnet334\Part03\2018-08-16(334)\EVS336.GarmentsShop\EVS336.GarmentsShop\obj\Debug\EVS336.GarmentsShop.pdb
+C:\Users\umair awan\Downloads\Programs\2018-08-28(334)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\EVS336.GarmentsShop.dll.config
+C:\Users\umair awan\Downloads\Programs\2018-08-28(334)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\EVS336.GarmentsShop.dll
+C:\Users\umair awan\Downloads\Programs\2018-08-28(334)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\EVS336.GarmentsShop.pdb
+C:\Users\umair awan\Downloads\Programs\2018-08-28(334)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\csc.exe
+C:\Users\umair awan\Downloads\Programs\2018-08-28(334)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\csc.exe.config
+C:\Users\umair awan\Downloads\Programs\2018-08-28(334)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\csc.rsp
+C:\Users\umair awan\Downloads\Programs\2018-08-28(334)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\csi.exe
+C:\Users\umair awan\Downloads\Programs\2018-08-28(334)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\csi.exe.config
+C:\Users\umair awan\Downloads\Programs\2018-08-28(334)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\csi.rsp
+C:\Users\umair awan\Downloads\Programs\2018-08-28(334)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\umair awan\Downloads\Programs\2018-08-28(334)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\umair awan\Downloads\Programs\2018-08-28(334)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\umair awan\Downloads\Programs\2018-08-28(334)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\umair awan\Downloads\Programs\2018-08-28(334)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\umair awan\Downloads\Programs\2018-08-28(334)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\umair awan\Downloads\Programs\2018-08-28(334)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\umair awan\Downloads\Programs\2018-08-28(334)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\umair awan\Downloads\Programs\2018-08-28(334)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\umair awan\Downloads\Programs\2018-08-28(334)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\umair awan\Downloads\Programs\2018-08-28(334)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\umair awan\Downloads\Programs\2018-08-28(334)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.AppContext.dll
+C:\Users\umair awan\Downloads\Programs\2018-08-28(334)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\umair awan\Downloads\Programs\2018-08-28(334)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.Console.dll
+C:\Users\umair awan\Downloads\Programs\2018-08-28(334)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\umair awan\Downloads\Programs\2018-08-28(334)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\umair awan\Downloads\Programs\2018-08-28(334)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\umair awan\Downloads\Programs\2018-08-28(334)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.IO.Compression.dll
+C:\Users\umair awan\Downloads\Programs\2018-08-28(334)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\umair awan\Downloads\Programs\2018-08-28(334)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\umair awan\Downloads\Programs\2018-08-28(334)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\umair awan\Downloads\Programs\2018-08-28(334)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.IO.Pipes.dll
+C:\Users\umair awan\Downloads\Programs\2018-08-28(334)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\umair awan\Downloads\Programs\2018-08-28(334)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\umair awan\Downloads\Programs\2018-08-28(334)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.Security.Claims.dll
+C:\Users\umair awan\Downloads\Programs\2018-08-28(334)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\umair awan\Downloads\Programs\2018-08-28(334)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\umair awan\Downloads\Programs\2018-08-28(334)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\umair awan\Downloads\Programs\2018-08-28(334)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\umair awan\Downloads\Programs\2018-08-28(334)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\umair awan\Downloads\Programs\2018-08-28(334)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\umair awan\Downloads\Programs\2018-08-28(334)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.Threading.Thread.dll
+C:\Users\umair awan\Downloads\Programs\2018-08-28(334)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.ValueTuple.dll
+C:\Users\umair awan\Downloads\Programs\2018-08-28(334)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\umair awan\Downloads\Programs\2018-08-28(334)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\umair awan\Downloads\Programs\2018-08-28(334)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.Xml.XPath.dll
+C:\Users\umair awan\Downloads\Programs\2018-08-28(334)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\umair awan\Downloads\Programs\2018-08-28(334)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\vbc.exe
+C:\Users\umair awan\Downloads\Programs\2018-08-28(334)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\vbc.exe.config
+C:\Users\umair awan\Downloads\Programs\2018-08-28(334)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\vbc.rsp
+C:\Users\umair awan\Downloads\Programs\2018-08-28(334)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\VBCSCompiler.exe
+C:\Users\umair awan\Downloads\Programs\2018-08-28(334)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\umair awan\Downloads\Programs\2018-08-28(334)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\EntityFramework.dll
+C:\Users\umair awan\Downloads\Programs\2018-08-28(334)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\EntityFramework.SqlServer.dll
+C:\Users\umair awan\Downloads\Programs\2018-08-28(334)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\EVS336.dll
+C:\Users\umair awan\Downloads\Programs\2018-08-28(334)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\umair awan\Downloads\Programs\2018-08-28(334)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\umair awan\Downloads\Programs\2018-08-28(334)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\System.Web.Helpers.dll
+C:\Users\umair awan\Downloads\Programs\2018-08-28(334)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\System.Web.Mvc.dll
+C:\Users\umair awan\Downloads\Programs\2018-08-28(334)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\System.Web.Razor.dll
+C:\Users\umair awan\Downloads\Programs\2018-08-28(334)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\System.Web.Webpages.Deployment.dll
+C:\Users\umair awan\Downloads\Programs\2018-08-28(334)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\System.Web.Webpages.dll
+C:\Users\umair awan\Downloads\Programs\2018-08-28(334)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\System.Web.Webpages.Razor.dll
+C:\Users\umair awan\Downloads\Programs\2018-08-28(334)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\EVS336.pdb
+C:\Users\umair awan\Downloads\Programs\2018-08-28(334)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\EntityFramework.xml
+C:\Users\umair awan\Downloads\Programs\2018-08-28(334)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\EntityFramework.SqlServer.xml
+C:\Users\umair awan\Downloads\Programs\2018-08-28(334)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\umair awan\Downloads\Programs\2018-08-28(334)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\System.Web.Razor.xml
+C:\Users\umair awan\Downloads\Programs\2018-08-28(334)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\System.Web.Webpages.xml
+C:\Users\umair awan\Downloads\Programs\2018-08-28(334)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\System.Web.Webpages.Deployment.xml
+C:\Users\umair awan\Downloads\Programs\2018-08-28(334)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\System.Web.Webpages.Razor.xml
+C:\Users\umair awan\Downloads\Programs\2018-08-28(334)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\System.Web.Helpers.xml
+C:\Users\umair awan\Downloads\Programs\2018-08-28(334)\EVS336.GarmentsShop\EVS336.GarmentsShop\bin\System.Web.Mvc.xml
+C:\Users\umair awan\Downloads\Programs\2018-08-28(334)\EVS336.GarmentsShop\EVS336.GarmentsShop\obj\Debug\EVS336.GarmentsShop.csprojAssemblyReference.cache
+C:\Users\umair awan\Downloads\Programs\2018-08-28(334)\EVS336.GarmentsShop\EVS336.GarmentsShop\obj\Debug\EVS336.GarmentsShop.csproj.CoreCompileInputs.cache
+C:\Users\umair awan\Downloads\Programs\2018-08-28(334)\EVS336.GarmentsShop\EVS336.GarmentsShop\obj\Debug\EVS336.GarmentsShop.csproj.CopyComplete
+C:\Users\umair awan\Downloads\Programs\2018-08-28(334)\EVS336.GarmentsShop\EVS336.GarmentsShop\obj\Debug\EVS336.GarmentsShop.dll
+C:\Users\umair awan\Downloads\Programs\2018-08-28(334)\EVS336.GarmentsShop\EVS336.GarmentsShop\obj\Debug\EVS336.GarmentsShop.pdb
+C:\Users\umair awan\Desktop\Garment Shop\GarmentsShop\EVS336.GarmentsShop\obj\Debug\EVS336.GarmentsShop.csprojAssemblyReference.cache
+C:\Users\umair awan\Desktop\Garment Shop\GarmentsShop\EVS336.GarmentsShop\obj\Debug\EVS336.GarmentsShop.csproj.CoreCompileInputs.cache
+C:\Users\umair awan\Desktop\Garment Shop\GarmentsShop\EVS336.GarmentsShop\obj\Debug\EVS336.GarmentsShop.dll
+C:\Users\umair awan\Desktop\Garment Shop\GarmentsShop\EVS336.GarmentsShop\obj\Debug\EVS336.GarmentsShop.pdb
+C:\Users\umair awan\Desktop\Garment Shop\GarmentsShop\EVS336.GarmentsShop\bin\EVS336.GarmentsShop.dll.config
+C:\Users\umair awan\Desktop\Garment Shop\GarmentsShop\EVS336.GarmentsShop\bin\EVS336.GarmentsShop.dll
+C:\Users\umair awan\Desktop\Garment Shop\GarmentsShop\EVS336.GarmentsShop\bin\EVS336.GarmentsShop.pdb
+C:\Users\umair awan\Desktop\Garment Shop\GarmentsShop\EVS336.GarmentsShop\bin\roslyn\csc.exe
+C:\Users\umair awan\Desktop\Garment Shop\GarmentsShop\EVS336.GarmentsShop\bin\roslyn\csc.exe.config
+C:\Users\umair awan\Desktop\Garment Shop\GarmentsShop\EVS336.GarmentsShop\bin\roslyn\csc.rsp
+C:\Users\umair awan\Desktop\Garment Shop\GarmentsShop\EVS336.GarmentsShop\bin\roslyn\csi.exe
+C:\Users\umair awan\Desktop\Garment Shop\GarmentsShop\EVS336.GarmentsShop\bin\roslyn\csi.exe.config
+C:\Users\umair awan\Desktop\Garment Shop\GarmentsShop\EVS336.GarmentsShop\bin\roslyn\csi.rsp
+C:\Users\umair awan\Desktop\Garment Shop\GarmentsShop\EVS336.GarmentsShop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\umair awan\Desktop\Garment Shop\GarmentsShop\EVS336.GarmentsShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\umair awan\Desktop\Garment Shop\GarmentsShop\EVS336.GarmentsShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\umair awan\Desktop\Garment Shop\GarmentsShop\EVS336.GarmentsShop\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\umair awan\Desktop\Garment Shop\GarmentsShop\EVS336.GarmentsShop\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\umair awan\Desktop\Garment Shop\GarmentsShop\EVS336.GarmentsShop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\umair awan\Desktop\Garment Shop\GarmentsShop\EVS336.GarmentsShop\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\umair awan\Desktop\Garment Shop\GarmentsShop\EVS336.GarmentsShop\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\umair awan\Desktop\Garment Shop\GarmentsShop\EVS336.GarmentsShop\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\umair awan\Desktop\Garment Shop\GarmentsShop\EVS336.GarmentsShop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\umair awan\Desktop\Garment Shop\GarmentsShop\EVS336.GarmentsShop\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\umair awan\Desktop\Garment Shop\GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.AppContext.dll
+C:\Users\umair awan\Desktop\Garment Shop\GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\umair awan\Desktop\Garment Shop\GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.Console.dll
+C:\Users\umair awan\Desktop\Garment Shop\GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\umair awan\Desktop\Garment Shop\GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\umair awan\Desktop\Garment Shop\GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\umair awan\Desktop\Garment Shop\GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.IO.Compression.dll
+C:\Users\umair awan\Desktop\Garment Shop\GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\umair awan\Desktop\Garment Shop\GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\umair awan\Desktop\Garment Shop\GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\umair awan\Desktop\Garment Shop\GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.IO.Pipes.dll
+C:\Users\umair awan\Desktop\Garment Shop\GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\umair awan\Desktop\Garment Shop\GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\umair awan\Desktop\Garment Shop\GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.Security.Claims.dll
+C:\Users\umair awan\Desktop\Garment Shop\GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\umair awan\Desktop\Garment Shop\GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\umair awan\Desktop\Garment Shop\GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\umair awan\Desktop\Garment Shop\GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\umair awan\Desktop\Garment Shop\GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\umair awan\Desktop\Garment Shop\GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\umair awan\Desktop\Garment Shop\GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.Threading.Thread.dll
+C:\Users\umair awan\Desktop\Garment Shop\GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.ValueTuple.dll
+C:\Users\umair awan\Desktop\Garment Shop\GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\umair awan\Desktop\Garment Shop\GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\umair awan\Desktop\Garment Shop\GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.Xml.XPath.dll
+C:\Users\umair awan\Desktop\Garment Shop\GarmentsShop\EVS336.GarmentsShop\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\umair awan\Desktop\Garment Shop\GarmentsShop\EVS336.GarmentsShop\bin\roslyn\vbc.exe
+C:\Users\umair awan\Desktop\Garment Shop\GarmentsShop\EVS336.GarmentsShop\bin\roslyn\vbc.exe.config
+C:\Users\umair awan\Desktop\Garment Shop\GarmentsShop\EVS336.GarmentsShop\bin\roslyn\vbc.rsp
+C:\Users\umair awan\Desktop\Garment Shop\GarmentsShop\EVS336.GarmentsShop\bin\roslyn\VBCSCompiler.exe
+C:\Users\umair awan\Desktop\Garment Shop\GarmentsShop\EVS336.GarmentsShop\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\umair awan\Desktop\Garment Shop\GarmentsShop\EVS336.GarmentsShop\bin\EntityFramework.dll
+C:\Users\umair awan\Desktop\Garment Shop\GarmentsShop\EVS336.GarmentsShop\bin\EntityFramework.SqlServer.dll
+C:\Users\umair awan\Desktop\Garment Shop\GarmentsShop\EVS336.GarmentsShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\umair awan\Desktop\Garment Shop\GarmentsShop\EVS336.GarmentsShop\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\umair awan\Desktop\Garment Shop\GarmentsShop\EVS336.GarmentsShop\bin\Newtonsoft.Json.dll
+C:\Users\umair awan\Desktop\Garment Shop\GarmentsShop\EVS336.GarmentsShop\bin\System.Net.Http.dll
+C:\Users\umair awan\Desktop\Garment Shop\GarmentsShop\EVS336.GarmentsShop\bin\System.Net.Http.Extensions.dll
+C:\Users\umair awan\Desktop\Garment Shop\GarmentsShop\EVS336.GarmentsShop\bin\System.Net.Http.Formatting.dll
+C:\Users\umair awan\Desktop\Garment Shop\GarmentsShop\EVS336.GarmentsShop\bin\System.Net.Http.Primitives.dll
+C:\Users\umair awan\Desktop\Garment Shop\GarmentsShop\EVS336.GarmentsShop\bin\System.Security.Cryptography.Algorithms.dll
+C:\Users\umair awan\Desktop\Garment Shop\GarmentsShop\EVS336.GarmentsShop\bin\System.Security.Cryptography.Encoding.dll
+C:\Users\umair awan\Desktop\Garment Shop\GarmentsShop\EVS336.GarmentsShop\bin\System.Security.Cryptography.Primitives.dll
+C:\Users\umair awan\Desktop\Garment Shop\GarmentsShop\EVS336.GarmentsShop\bin\System.Security.Cryptography.X509Certificates.dll
+C:\Users\umair awan\Desktop\Garment Shop\GarmentsShop\EVS336.GarmentsShop\bin\System.Web.Helpers.dll
+C:\Users\umair awan\Desktop\Garment Shop\GarmentsShop\EVS336.GarmentsShop\bin\System.Web.Mvc.dll
+C:\Users\umair awan\Desktop\Garment Shop\GarmentsShop\EVS336.GarmentsShop\bin\System.Web.Razor.dll
+C:\Users\umair awan\Desktop\Garment Shop\GarmentsShop\EVS336.GarmentsShop\bin\System.Web.Webpages.Deployment.dll
+C:\Users\umair awan\Desktop\Garment Shop\GarmentsShop\EVS336.GarmentsShop\bin\System.Web.Webpages.dll
+C:\Users\umair awan\Desktop\Garment Shop\GarmentsShop\EVS336.GarmentsShop\bin\System.Web.Webpages.Razor.dll
+C:\Users\umair awan\Desktop\Garment Shop\GarmentsShop\EVS336.GarmentsShop\bin\EntityFramework.xml
+C:\Users\umair awan\Desktop\Garment Shop\GarmentsShop\EVS336.GarmentsShop\bin\EntityFramework.SqlServer.xml
+C:\Users\umair awan\Desktop\Garment Shop\GarmentsShop\EVS336.GarmentsShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\umair awan\Desktop\Garment Shop\GarmentsShop\EVS336.GarmentsShop\bin\Newtonsoft.Json.xml
+C:\Users\umair awan\Desktop\Garment Shop\GarmentsShop\EVS336.GarmentsShop\bin\System.Web.Razor.xml
+C:\Users\umair awan\Desktop\Garment Shop\GarmentsShop\EVS336.GarmentsShop\bin\System.Web.Webpages.xml
+C:\Users\umair awan\Desktop\Garment Shop\GarmentsShop\EVS336.GarmentsShop\bin\System.Web.Webpages.Deployment.xml
+C:\Users\umair awan\Desktop\Garment Shop\GarmentsShop\EVS336.GarmentsShop\bin\System.Web.Webpages.Razor.xml
+C:\Users\umair awan\Desktop\Garment Shop\GarmentsShop\EVS336.GarmentsShop\bin\System.Web.Helpers.xml
+C:\Users\umair awan\Desktop\Garment Shop\GarmentsShop\EVS336.GarmentsShop\bin\System.Web.Mvc.xml
+C:\Users\umair awan\Desktop\Garment Shop\GarmentsShop\EVS336.GarmentsShop\obj\Debug\EVS336.GarmentsShop.csproj.CopyComplete

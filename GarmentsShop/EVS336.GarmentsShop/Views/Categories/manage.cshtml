@@ -1,0 +1,136 @@
+﻿@using EVS336.GarmentsShop.Models
+@using EVS336.GarmentsShop.Models.Categories
+
+@model IEnumerable<CategoryModel>
+
+@{
+    Layout = "~/Views/Shared/_adminlayoutpage.cshtml";
+    ViewBag.Title = "Manage Categories";
+    AlertModel alertMessage = TempData["AlertMessage"] as AlertModel;
+}
+
+@section myscript{
+    @*1. these Two Files are For the BuiltIn Pagination in the Categories Table *@
+    <link rel="stylesheet" type="text/css" href="~/Content/jquery.dataTables.min.css" />
+    <script src="~/Scripts/jquery.dataTables.min.js"></script>
+
+
+    <script type="text/javascript">
+
+        @* 2. then called DataTable method For applying Pagination on Category Table by Id *@
+        $(document).ready(function () {
+            $('#CategoriesTable').DataTable();
+        });
+
+        $(function () {
+
+            $(".dgdeletebtn").click(function () {
+
+                debugger;
+
+                var cid = $(this).parents(".dgdatarow").data("categoryid");
+                $.ajax(
+                    {
+                        url: "/categories/delete/" + cid
+                    }
+
+                ).done(function (result) {
+                    debugger;
+                    $("#mydialog-title").html("Do you want to delete this record?");
+                    $("#mydialog-body").html(result);
+                    $("#mydialog").modal();
+                });
+            });
+
+
+
+            $(".dgeditbtn").click(function () {
+                var cid = $(this).parents(".dgdatarow").data("categoryid");
+                $.ajax(
+                    {
+                        url: "/categories/edit/" + cid
+                    }
+                ).done(function (result) {
+                    $("#mydialog-title").html("Edit Category");
+                    $("#mydialog-body").html(result);
+                    $("#mydialog").modal();
+                });
+            });
+
+
+            $("#createlink").click(function (event) {
+                event.preventDefault();
+                $.ajax(
+                    {
+                        url: "/categories/create"
+                    }
+                ).done(function (result) {
+                    $("#mydialog-title").html("New Category");
+                    $("#mydialog-body").html(result);
+                    $("#mydialog").modal();
+
+                });
+            });
+        });
+
+    </script>
+}
+
+
+<div class="modal fade" id="mydialog" tabindex="-1" role="dialog" aria-labelledby="mydialog-label">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header bg-primary">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                <h4 class="modal-title" id="mydialog-title">New Category</h4>
+            </div>
+            <div id="mydialog-body" class="modal-body">
+
+            </div>
+        </div>
+    </div>
+</div>
+
+@if (alertMessage != null)
+{
+    @Html.Partial("~/Views/Shared/_AlertView.cshtml", alertMessage)
+}
+
+
+<table id="CategoriesTable" class="table table-bordered">
+    <thead>
+        <tr class="bg-primary">
+            <th colspan="4">@ViewBag.Title &nbsp;&nbsp; [ <a id="createlink" href="/categories/create">Add New</a> ]</th>
+        </tr>
+        <tr class="bg-primary">
+            <th class="col-lg-3">Name</th>
+            <th class="col-lg-3">Parent</th>
+            <th class="col-lg-2">Products</th>
+            <th class="col-lg-4">Actions</th>
+        </tr>
+    </thead>
+    <tbody id="tblbdycountries">
+        @foreach (var m in Model)
+        {
+            <tr class="dgdatarow" data-categoryid="@m.Id">
+                <td class="col-lg-3">@m.Name</td>
+                <td class="col-lg-3">@m.DepartmentName</td>
+                <td class="col-lg-2">@m.ProductsConnected.ToString()</td>
+                <td class="col-lg-4">
+
+                    <button class="btn btn-xs btn-warning dgeditbtn"><span class="glyphicon glyphicon-edit"></span></button>&nbsp;
+
+                    @if (m.ProductsConnected == 0)
+                    {
+                        <button class="btn btn-xs btn-danger dgdeletebtn"><span class="glyphicon glyphicon-trash"></span></button>
+                    }
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+@*@Html.Partial("~/Views/Shared/_PartialPage1.cshtml")*@
+
+
+

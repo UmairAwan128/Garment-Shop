@@ -1,0 +1,5 @@
+﻿@using  EVS336.GarmentsShop.Models
+@model DDLModel
+
+<span class="input-group-addon"><span class="glyphicon @Model.GlyphIcon"></span></span>
+@Html.DropDownList(Model.Name,Model.Values,Model.Caption,new { @class = "form-control" })

@@ -1,0 +1,11 @@
+﻿@using EVS336.GarmentsShop.Models.Users
+
+@{
+    ViewBag.Title = "Admin";
+    Layout = "~/Views/Shared/_AdminLayoutPage.cshtml";
+    UserSessionModel currentUser = (UserSessionModel)Session[WebUtil.CURRENT_USER];
+}
+
+<h2>Welcome : @currentUser.LoginId</h2>
+
+

@@ -1,0 +1,361 @@
+Sunday, July 15, 2018 12:09:10 PM
+Input string was not in a correct format.
+------------------------------
+Saturday, August 4, 2018 10:13:42 PM
+An error occurred while saving entities that do not expose foreign key properties for their relationships. The EntityEntries property will return null because a single entity cannot be identified as the source of the exception. Handling of exceptions while saving can be made easier by exposing foreign key properties in your entity types. See the InnerException for details.
+   at System.Data.Entity.Internal.InternalContext.SaveChanges()
+   at System.Data.Entity.Internal.LazyInternalContext.SaveChanges()
+   at System.Data.Entity.DbContext.SaveChanges()
+   at EVS336.GarmentsShop.GarmentsHandler.AddProduct(Product product) in D:\Classes\01Dotnet\Dotnet336\Part04\2018-07-29(336)\EVS336.GarmentsShop\EVS336\GarmentsShop\GarmentsHandler.cs:line 60
+   at EVS336.GarmentsShop.Controllers.ProductsController.Create(FormCollection data) in D:\Classes\01Dotnet\Dotnet336\Part04\2018-08-04(336)\EVS336.GarmentsShop\EVS336.GarmentsShop\Controllers\ProductsController.cs:line 67
+------------------------------
+Monday, September 24, 2018 3:52:27 PM
+Object reference not set to an instance of an object.
+   at EVS336.GarmentsShop.Controllers.ProductsController.<Create>d__9.MoveNext() in C:\Users\umair awan\Desktop\Garment Shop\GarmentsShop\EVS336.GarmentsShop\Controllers\ProductsController.cs:line 119
+------------------------------
+Monday, September 24, 2018 7:07:59 PM
+Object reference not set to an instance of an object.
+   at EVS336.GarmentsShop.Controllers.ProductsController.<Create>d__9.MoveNext() in C:\Users\umair awan\Desktop\Garment Shop\GarmentsShop\EVS336.GarmentsShop\Controllers\ProductsController.cs:line 119
+------------------------------
+Monday, September 24, 2018 7:11:22 PM
+Object reference not set to an instance of an object.
+   at EVS336.GarmentsShop.Controllers.ProductsController.<Create>d__9.MoveNext() in C:\Users\umair awan\Desktop\Garment Shop\GarmentsShop\EVS336.GarmentsShop\Controllers\ProductsController.cs:line 119
+------------------------------
+Monday, September 24, 2018 7:20:00 PM
+Object reference not set to an instance of an object.
+   at EVS336.GarmentsShop.Controllers.ProductsController.<Create>d__9.MoveNext() in C:\Users\umair awan\Desktop\Garment Shop\GarmentsShop\EVS336.GarmentsShop\Controllers\ProductsController.cs:line 119
+------------------------------
+Monday, September 24, 2018 10:42:45 PM
+Object reference not set to an instance of an object.
+   at EVS336.GarmentsShop.Controllers.ProductsController.<Create>d__9.MoveNext() in C:\Users\umair awan\Desktop\Garment Shop\GarmentsShop\EVS336.GarmentsShop\Controllers\ProductsController.cs:line 119
+------------------------------
+Monday, September 24, 2018 10:47:47 PM
+Object reference not set to an instance of an object.
+   at EVS336.GarmentsShop.Controllers.ProductsController.<Create>d__9.MoveNext()
+------------------------------
+Monday, September 24, 2018 10:54:19 PM
+Object reference not set to an instance of an object.
+   at EVS336.GarmentsShop.Controllers.ProductsController.<Create>d__9.MoveNext()
+------------------------------
+Monday, September 24, 2018 10:55:16 PM
+Object reference not set to an instance of an object.
+   at EVS336.GarmentsShop.Controllers.ProductsController.<Create>d__9.MoveNext()
+------------------------------
+Monday, September 24, 2018 10:58:35 PM
+Object reference not set to an instance of an object.
+   at EVS336.GarmentsShop.Controllers.ProductsController.<Create>d__9.MoveNext()
+------------------------------
+Monday, September 24, 2018 10:59:02 PM
+Object reference not set to an instance of an object.
+   at EVS336.GarmentsShop.Controllers.ProductsController.<Create>d__9.MoveNext()
+------------------------------
+Tuesday, September 25, 2018 9:26:11 AM
+Object reference not set to an instance of an object.
+   at EVS336.GarmentsShop.Controllers.ProductsController.<Create>d__9.MoveNext() in C:\Users\umair awan\Desktop\Garment Shop\GarmentsShop\EVS336.GarmentsShop\Controllers\ProductsController.cs:line 141
+------------------------------
+Tuesday, September 25, 2018 9:34:04 AM
+Object reference not set to an instance of an object.
+   at EVS336.GarmentsShop.Controllers.ProductsController.<Create>d__9.MoveNext() in C:\Users\umair awan\Desktop\Garment Shop\GarmentsShop\EVS336.GarmentsShop\Controllers\ProductsController.cs:line 141
+------------------------------
+Tuesday, September 25, 2018 9:38:23 AM
+Object reference not set to an instance of an object.
+   at EVS336.GarmentsShop.Controllers.ProductsController.<Create>d__9.MoveNext() in C:\Users\umair awan\Desktop\Garment Shop\GarmentsShop\EVS336.GarmentsShop\Controllers\ProductsController.cs:line 141
+------------------------------
+Tuesday, September 25, 2018 6:36:52 PM
+Object reference not set to an instance of an object.
+   at EVS336.GarmentsShop.Controllers.ProductsController.<Create>d__9.MoveNext()
+------------------------------
+Tuesday, September 25, 2018 6:39:02 PM
+Object reference not set to an instance of an object.
+   at EVS336.GarmentsShop.Controllers.ProductsController.<Create>d__9.MoveNext()
+------------------------------
+Wednesday, September 26, 2018 10:20:23 PM
+Object reference not set to an instance of an object.
+   at EVS336.GarmentsShop.Controllers.ProductsController.<Edit>d__13.MoveNext() in C:\Users\umair awan\Desktop\Garment Shop\GarmentsShop\EVS336.GarmentsShop\Controllers\ProductsController.cs:line 287
+------------------------------
+Wednesday, September 26, 2018 10:22:20 PM
+Object reference not set to an instance of an object.
+   at EVS336.GarmentsShop.Controllers.ProductsController.<Edit>d__13.MoveNext() in C:\Users\umair awan\Desktop\Garment Shop\GarmentsShop\EVS336.GarmentsShop\Controllers\ProductsController.cs:line 287
+------------------------------
+Wednesday, September 26, 2018 10:24:34 PM
+Object reference not set to an instance of an object.
+   at EVS336.GarmentsShop.Controllers.ProductsController.<Edit>d__13.MoveNext() in C:\Users\umair awan\Desktop\Garment Shop\GarmentsShop\EVS336.GarmentsShop\Controllers\ProductsController.cs:line 287
+------------------------------
+Wednesday, September 26, 2018 10:30:45 PM
+Object reference not set to an instance of an object.
+   at EVS336.GarmentsShop.Controllers.ProductsController.<Edit>d__13.MoveNext() in C:\Users\umair awan\Desktop\Garment Shop\GarmentsShop\EVS336.GarmentsShop\Controllers\ProductsController.cs:line 287
+------------------------------
+Wednesday, September 26, 2018 10:32:22 PM
+Object reference not set to an instance of an object.
+   at EVS336.GarmentsShop.Controllers.ProductsController.<Edit>d__13.MoveNext() in C:\Users\umair awan\Desktop\Garment Shop\GarmentsShop\EVS336.GarmentsShop\Controllers\ProductsController.cs:line 287
+------------------------------
+Wednesday, September 26, 2018 10:36:16 PM
+Object reference not set to an instance of an object.
+   at EVS336.GarmentsShop.Controllers.ProductsController.<Edit>d__13.MoveNext() in C:\Users\umair awan\Desktop\Garment Shop\GarmentsShop\EVS336.GarmentsShop\Controllers\ProductsController.cs:line 287
+------------------------------
+Thursday, September 27, 2018 9:51:54 AM
+A task was canceled.
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Net.Http.HttpClient.<FinishSendAsync>d__58.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at EVS336.GarmentsShop.Controllers.ProductsController.<Edit>d__13.MoveNext() in C:\Users\umair awan\Desktop\Garment Shop\GarmentsShop\EVS336.GarmentsShop\Controllers\ProductsController.cs:line 300
+------------------------------
+Thursday, September 27, 2018 9:56:17 AM
+An error occurred while sending the request.
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Net.Http.HttpClient.<FinishSendAsync>d__58.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at EVS336.GarmentsShop.Controllers.ProductsController.<Edit>d__13.MoveNext() in C:\Users\umair awan\Desktop\Garment Shop\GarmentsShop\EVS336.GarmentsShop\Controllers\ProductsController.cs:line 300
+------------------------------
+Thursday, September 27, 2018 10:03:54 AM
+A task was canceled.
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Net.Http.HttpClient.<FinishSendAsync>d__58.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at EVS336.GarmentsShop.Controllers.ProductsController.<Edit>d__13.MoveNext() in C:\Users\umair awan\Desktop\Garment Shop\GarmentsShop\EVS336.GarmentsShop\Controllers\ProductsController.cs:line 300
+------------------------------
+Tuesday, October 2, 2018 8:19:43 PM
+Object reference not set to an instance of an object.
+   at EVS336.GarmentsShop.Controllers.UsersController.<SignUp>d__11.MoveNext()
+------------------------------
+Tuesday, October 2, 2018 8:20:54 PM
+Object reference not set to an instance of an object.
+   at EVS336.GarmentsShop.Controllers.UsersController.<SignUp>d__11.MoveNext()
+------------------------------
+Tuesday, October 2, 2018 8:23:34 PM
+Object reference not set to an instance of an object.
+   at EVS336.GarmentsShop.Controllers.UsersController.<SignUp>d__11.MoveNext()
+------------------------------
+Tuesday, October 2, 2018 8:24:05 PM
+Object reference not set to an instance of an object.
+   at EVS336.GarmentsShop.Controllers.UsersController.<SignUp>d__11.MoveNext()
+------------------------------
+Tuesday, October 2, 2018 8:31:14 PM
+A task was canceled.
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Net.Http.HttpClient.<FinishSendAsync>d__58.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at EVS336.GarmentsShop.Controllers.UsersController.<SignUp>d__11.MoveNext() in C:\Users\umair awan\Desktop\Garment Shop\GarmentsShop\EVS336.GarmentsShop\Controllers\UsersController.cs:line 213
+------------------------------
+Wednesday, October 3, 2018 9:46:28 AM
+A task was canceled.
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Net.Http.HttpClient.<FinishSendAsync>d__58.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at EVS336.GarmentsShop.Controllers.ProductsController.<ProductTable>d__11.MoveNext() in C:\Users\umair awan\Desktop\Garment Shop\GarmentsShop\EVS336.GarmentsShop\Controllers\ProductsController.cs:line 63
+------------------------------
+Wednesday, October 3, 2018 10:52:41 PM
+A task was canceled.
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Net.Http.HttpClient.<FinishSendAsync>d__58.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at EVS336.GarmentsShop.Controllers.HomeController.<PostOrder>d__12.MoveNext()
+------------------------------
+Wednesday, October 3, 2018 11:08:05 PM
+A task was canceled.
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Net.Http.HttpClient.<FinishSendAsync>d__58.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at EVS336.GarmentsShop.Controllers.HomeController.<PostOrder>d__12.MoveNext()
+------------------------------
+Wednesday, October 3, 2018 11:37:46 PM
+A task was canceled.
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Net.Http.HttpClient.<FinishSendAsync>d__58.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at EVS336.GarmentsShop.Controllers.HomeController.<PostOrder>d__12.MoveNext() in C:\Users\umair awan\Desktop\Garment Shop\GarmentsShop\EVS336.GarmentsShop\Controllers\HomeController.cs:line 169
+------------------------------
+Wednesday, October 3, 2018 11:44:23 PM
+A task was canceled.
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Net.Http.HttpClient.<FinishSendAsync>d__58.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at EVS336.GarmentsShop.Controllers.HomeController.<PostOrder>d__12.MoveNext() in C:\Users\umair awan\Desktop\Garment Shop\GarmentsShop\EVS336.GarmentsShop\Controllers\HomeController.cs:line 169
+------------------------------
+Wednesday, October 3, 2018 11:48:57 PM
+A task was canceled.
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Net.Http.HttpClient.<FinishSendAsync>d__58.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at EVS336.GarmentsShop.Controllers.HomeController.<PostOrder>d__12.MoveNext() in C:\Users\umair awan\Desktop\Garment Shop\GarmentsShop\EVS336.GarmentsShop\Controllers\HomeController.cs:line 169
+------------------------------
+Wednesday, October 3, 2018 11:58:40 PM
+A task was canceled.
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Net.Http.HttpClient.<FinishSendAsync>d__58.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at EVS336.GarmentsShop.Controllers.HomeController.<PostOrder>d__12.MoveNext() in C:\Users\umair awan\Desktop\Garment Shop\GarmentsShop\EVS336.GarmentsShop\Controllers\HomeController.cs:line 169
+------------------------------
+Thursday, October 4, 2018 12:03:28 AM
+A task was canceled.
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Net.Http.HttpClient.<FinishSendAsync>d__58.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at EVS336.GarmentsShop.Controllers.HomeController.<PostOrder>d__12.MoveNext() in C:\Users\umair awan\Desktop\Garment Shop\GarmentsShop\EVS336.GarmentsShop\Controllers\HomeController.cs:line 169
+------------------------------
+Thursday, October 4, 2018 12:08:09 AM
+A task was canceled.
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Net.Http.HttpClient.<FinishSendAsync>d__58.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at EVS336.GarmentsShop.Controllers.HomeController.<PostOrder>d__12.MoveNext() in C:\Users\umair awan\Desktop\Garment Shop\GarmentsShop\EVS336.GarmentsShop\Controllers\HomeController.cs:line 169
+------------------------------
+Thursday, October 4, 2018 6:57:34 PM
+Object reference not set to an instance of an object.
+   at EVS336.GarmentsShop.Controllers.ProductsController.<Edit>d__15.MoveNext() in C:\Users\umair awan\Desktop\Garment Shop\GarmentsShop\EVS336.GarmentsShop\Controllers\ProductsController.cs:line 308
+------------------------------
+Thursday, October 4, 2018 6:58:10 PM
+Object reference not set to an instance of an object.
+   at EVS336.GarmentsShop.Controllers.ProductsController.<Edit>d__15.MoveNext() in C:\Users\umair awan\Desktop\Garment Shop\GarmentsShop\EVS336.GarmentsShop\Controllers\ProductsController.cs:line 308
+------------------------------
+Thursday, October 4, 2018 6:58:26 PM
+Object reference not set to an instance of an object.
+   at EVS336.GarmentsShop.Controllers.ProductsController.<Edit>d__15.MoveNext() in C:\Users\umair awan\Desktop\Garment Shop\GarmentsShop\EVS336.GarmentsShop\Controllers\ProductsController.cs:line 308
+------------------------------
+Thursday, October 4, 2018 7:26:33 PM
+A task was canceled.
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Net.Http.HttpClient.<FinishSendAsync>d__58.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at EVS336.GarmentsShop.Controllers.HomeController.<PostOrder>d__14.MoveNext() in C:\Users\umair awan\Desktop\Garment Shop\GarmentsShop\EVS336.GarmentsShop\Controllers\HomeController.cs:line 208
+------------------------------
+Thursday, October 4, 2018 7:30:54 PM
+An error occurred while sending the request.
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Net.Http.HttpClient.<FinishSendAsync>d__58.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at EVS336.GarmentsShop.Controllers.HomeController.<PostOrder>d__14.MoveNext() in C:\Users\umair awan\Desktop\Garment Shop\GarmentsShop\EVS336.GarmentsShop\Controllers\HomeController.cs:line 208
+------------------------------
+Saturday, October 6, 2018 4:29:32 PM
+A task was canceled.
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Net.Http.HttpClient.<FinishSendAsync>d__58.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at EVS336.GarmentsShop.Controllers.HomeController.<PostOrder>d__14.MoveNext() in C:\Users\umair awan\Desktop\Garment Shop\GarmentsShop\EVS336.GarmentsShop\Controllers\HomeController.cs:line 208
+------------------------------
+Sunday, October 28, 2018 4:27:00 PM
+A task was canceled.
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Net.Http.HttpClient.<FinishSendAsync>d__58.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at EVS336.GarmentsShop.Controllers.HomeController.<PostOrder>d__14.MoveNext() in C:\Users\umair awan\Desktop\Garment Shop\GarmentsShop\EVS336.GarmentsShop\Controllers\HomeController.cs:line 208
+------------------------------
+Sunday, October 28, 2018 4:36:34 PM
+A task was canceled.
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Net.Http.HttpClient.<FinishSendAsync>d__58.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at EVS336.GarmentsShop.Controllers.HomeController.<PostOrder>d__14.MoveNext() in C:\Users\umair awan\Desktop\Garment Shop\GarmentsShop\EVS336.GarmentsShop\Controllers\HomeController.cs:line 208
+------------------------------
+Sunday, October 28, 2018 4:43:20 PM
+A task was canceled.
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Net.Http.HttpClient.<FinishSendAsync>d__58.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at EVS336.GarmentsShop.Controllers.HomeController.<PostOrder>d__14.MoveNext() in C:\Users\umair awan\Desktop\Garment Shop\GarmentsShop\EVS336.GarmentsShop\Controllers\HomeController.cs:line 208
+------------------------------
+Sunday, October 28, 2018 4:47:25 PM
+A task was canceled.
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Net.Http.HttpClient.<FinishSendAsync>d__58.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at EVS336.GarmentsShop.Controllers.HomeController.<PostOrder>d__14.MoveNext() in C:\Users\umair awan\Desktop\Garment Shop\GarmentsShop\EVS336.GarmentsShop\Controllers\HomeController.cs:line 208
+------------------------------

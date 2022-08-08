@@ -1,0 +1,281 @@
+﻿@using EVS336.GarmentsShop.Models
+@using EVS336.GarmentsShop.Models.Products
+
+@{
+    Layout = "~/Views/Shared/_adminlayoutpage.cshtml";
+    ViewBag.Title = "Manage Proucts";
+    AlertModel alertMessage = TempData["AlertMessage"] as AlertModel;
+}
+
+@section myscript{
+    <script src="~/Scripts/printThis.js"></script>
+    <script type="text/javascript">
+
+         var searchValue = null; //so get all records
+
+            $.ajax({
+                        url: '@Url.Action("ProductTable", "Products")',
+                        data: { //if any parameter that action requires we passed them in here as ProductTable() requires string named "search"
+                            search: searchValue    //for search parameter of the ProductTable() action we passed searchValue
+                        }
+                    })//so Ajax request sent
+                    .done(function (data) { //on the completion of the Ajax Request after the Action Called completly executes the controls comes to done()
+                        //alert(data); //the data will be from the Action we called here ProductTable() Action returns PartailView of table so its html will be in data
+                        $("#ProductTable").html(data); //so we set that html to the div having id=tableContianer
+
+
+                        //if the ajax call is executing only once for any thing then replace   $("#searchBtn").click(function () {
+                        //with $(document).on('click', '#searchBtn', function (e) { }  which will work
+                        $(document).on('click', '#searchBtn', function (e)
+                        {
+                        debugger;
+                        var searchValue = $("#searchTxt").val();
+                        //now we want to send this value to the ProductTable() action in ProductControler and we want to do this
+                        //with AJAX i.e without reloading the page so the Sytax for the most common Ajax calls is
+                        $.ajax({
+                            //type="Get",     //this the request type i.e Get or call the Get Method byDefault its Get
+                            //its URLHelper its detail is int CategoriesTable.cshtml on SearchBtn click function in JS<script> code
+                            url: '@Url.Action("ProductTable", "Products")',
+                             //url: "/Product/ProductTable",        //here we enter location/path of action to call as type=Get so Get Action will be called in case of two methods
+                            data: { //if any parameter that action requires we passed them in here as ProductTable() requires string named "search"
+                                search: searchValue    //for search parameter of the ProductTable() action we passed searchValue
+                            }
+                        })//so Ajax request sent
+                            .done(function (data) { //on the completion of the Ajax Request after the Action Called completly executes the controls comes to done()
+                                //alert(data); //the data will be from the Action we called here ProductTable() Action returns PartailView of table so its html will be in data
+                                $("#ProductTable").html(data); //so we set that html to the div having id=tableContianer
+                            })//if Ajax request fail for any of the reason this fail() will execute
+                            .fail(function (XMLHttpRequest, textStatus, errorThrown) {
+                                alert("Failed");
+                            });
+                        });
+
+                        $(document).on('click', '#resetBtn', function (e) {
+                            debugger;
+                            var searchValue = '';
+                            //now we want to send this value to the ProductTable() action in ProductControler and we want to do this
+                            //with AJAX i.e without reloading the page so the Sytax for the most common Ajax calls is
+
+                            $.ajax({
+                                //type="Get",     //this the request type i.e Get or call the Get Method byDefault its Get
+                                  //its URLHelper its detail is int CategoriesTable.cshtml on SearchBtn click function in JS<script> code
+                                url: '@Url.Action("ProductTable", "Products")',
+                                //  url: "/Product/ProductTable",        //here we enter location/path of action to call as type=Get so Get Action will be called in case of two methods
+                                data: { //if any parameter that action requires we passed them in here as ProductTable() requires string named "search"
+                                    search: searchValue    //for search parameter of the ProductTable() action we passed searchValue
+                                }
+                            })//so Ajax request sent
+                            .done(function (data) { //on the completion of the Ajax Request after the Action Called completly executes the controls comes to done()
+                                //alert(data); //the data will be from the Action we called here ProductTable() Action returns PartailView of table so its html will be in data
+                                $("#ProductTable").html(data); //so we set that html to the div having id=tableContianer
+                            })//if Ajax request fail for any of the reason this fail() will execute
+                            .fail(function (XMLHttpRequest, textStatus, errorThrown) {
+                                alert("Failed");
+                            });
+                       });
+
+
+                        $(document).on('click', '.PageNavigationButton', function (e) {
+                            $.ajax({
+
+                               url: '@Url.Action("ProductTable", "Products")',
+                                data: {
+                                    search:  '', //or can be $("#searchTxt").val() but bad option as it picks anything written in Textbox even search not performed
+                                  pageNo: $(this).attr("data-pageNo")   //passing the PageNo so that specific records according to pageNo will be retrieved
+                               }
+                           })
+                            .done(function (data) {
+                                $("#ProductTable").html(data);
+                            })
+                            .fail(function (XMLHttpRequest, textStatus, errorThrown) {
+                                alert("Failed");
+                            });
+                        });
+
+                        $(document).on('click', '.dgdeletebtn', function (e) {
+
+                        var cid = $(this).parents(".dgdatarow").data("productid");
+
+                        var r = confirm("Press a button!");
+                        debugger;
+                        if (r == true) {
+                            $.ajax(
+                                {
+                                    type: "Get",
+                                    url: "/products/delete/" + cid
+                                }
+                            ).done(function (result) {
+                            });
+                        }
+                        else {
+                            txt = "You pressed Cancel!";
+                        }
+
+
+                    });
+
+                        $(document).on('click', '.dgeditbtn', function (e) {
+                        event.preventDefault();
+
+                        var cid = $(this).parents(".dgdatarow").data("productid");
+                        debugger;
+
+                        $.ajax(
+                            {
+                                url: "/products/edit/" + cid
+                            }
+                        ).done(function (result) {
+                            $("#mydialog-title").html("Edit Product");
+                            $("#mydialog-body").html(result);
+                            $("#mydialog").modal();
+
+
+                            var ProdImageId;
+                               $(".imageUpload").change(function () {
+                                   var ImageId = $(this).attr('Id');
+                                    ProdImageId = ImageId;
+                                    debugger;
+                                    var element = this; //as this so element will have the reference of the element(Image) on which this function is applied
+
+                                    var formData = new FormData(); //created here a new FormData obj as its accessible on server and also when we submitForm
+                                    //VisualStudio creates object of FormData and using that we can also access all the Values but as here we want before Submitting
+                                    //so we created here object own our own to send Data to Server..
+
+                                    //totalFiles will have the totalNumber of files user have selected i.e User uploaded how many files/Images here he will upload
+                                    //only one so this code is for both if single file uploaded or multiple files..
+                                    var totalFiles = element.files.length;
+
+                                    //here adding the files that user uploaded into FormData
+                                    for (var i = 0; i < totalFiles; i++) {
+                                        var file = element.files[i]; //first get the file
+                                        formData.append("Photo", file); //then add to formData
+                                    }
+
+                                    //now send the formData obj to the UploadImage() of SharedController
+                                    $.ajax({
+                                        type: "Post",
+                                        //its URLHelper its detail is int CategoriesTable.cshtml on SearchBtn click function in JS <script> code
+                                        url: '@Url.Action("UploadImage", "Shared")',
+                                        //url: "/Shared/UploadImage",
+                                        data: formData,
+                                        dataType: 'json', //tell the type and other things
+                                        contentType: false,
+                                        processData: false
+                                    })
+                                        .done(function (response) { //UploadImage() Action will return an annonymous obj in the form of Json in that object we are getting two things
+                                            //1. we will get ImageURL i.e Path of Image in Server and
+                                            //2. the Value of "Success(type:bool)" i.e either the the Image is saved or Not
+                                            //debugger; //means when the control comes here program Pauses like Breakpoint
+                                            //console.log(response);  //to show the value of response in the Console of the browser
+                                            debugger;
+                                            if (response.Success == true) {
+
+                                                $('#productImage' + ImageId).css("display", "block");
+
+                                                $('#productImage' + ImageId).attr("src", response.ImageURL); //assign the Url to <img> tag above to show
+                                            }
+                                        })
+                                        .fail(function (XMLHttpRequest, textStatus, errorThrown) {
+                                            alert("Failed");
+                                        });
+
+                        });
+                });
+
+
+            });
+            //$(".dgdetailsbtn").click(function () {
+
+            //})
+            $(document).on('click', '#printbtn', function (e) {
+
+                $("#tblcategories").printThis();
+            });
+
+
+                $(document).on('click', '#createlink', function (e) {
+
+                event.preventDefault();
+                $.ajax(
+                    {
+                        url: "/products/create",
+                    }
+                ).done(function (result) {
+                    $("#mydialog-title").html("New Product");
+                    $("#mydialog-body").html(result);
+                    $("#mydialog").modal();
+
+                    $(".form-control:required").blur(function () {
+                        if ($(this).val().length == 0) {
+                            $(this).parent().removeClass("has-success");
+                            $(this).parent().addClass("has-error");
+                            $(this).next().html("<span class='glyphicon glyphicon-warning-sign'></span>");
+                        }
+                        else {
+                            $(this).parent().removeClass("has-error");
+                            $(this).parent().addClass("has-success");
+                            $(this).next().html("<span class='glyphicon glyphicon-check'></span>");
+
+                        }
+                    });
+
+                    $("#Departments").change(function () {
+                        debugger;
+                        var deptid = $(this).select("option:selected").val();
+                        $.ajax(
+                            {
+                                url: "/categories/level2ddl/" + deptid
+                            }
+                        ).done(function (level2ddl) {
+                            $("#categoriesdiv").html(level2ddl);
+                            $("#Categories").change(function () {
+                                var cid = $(this).select("option:selected").val();
+                                $.ajax(
+                                    {
+                                        url: "/categories/level3ddl/" + cid
+                                    }
+                                ).done(function (level3ddl) {
+
+                                    $("#subcategoriesdiv").html(level3ddl);
+                                });
+                            });
+                        });
+                    });
+
+                });
+            });
+
+
+            })//if Ajax request fail for any of the reason this fail() will execute
+            .fail(function (XMLHttpRequest, textStatus, errorThrown) {
+                alert("Failed");
+            });
+
+    </script>
+}
+
+<div class="modal fade" id="mydialog" tabindex="-1" role="dialog" aria-labelledby="mydialog-label">
+    <div class="modal-dialog modal-lg" role="document">
+        <div class="modal-content">
+            <div class="modal-header bg-primary">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                <h4 class="modal-title" id="mydialog-title"></h4>
+            </div>
+            <div id="mydialog-body" class="modal-body"> </div>
+        </div>
+    </div>
+</div>
+
+@if (alertMessage != null)
+{
+    @Html.Partial("~/Views/Shared/_AlertView.cshtml", alertMessage)
+}
+
+
+<div id="ProductTable">
+    @* will have the ProductTable *@
+</div>
+
+
+
+

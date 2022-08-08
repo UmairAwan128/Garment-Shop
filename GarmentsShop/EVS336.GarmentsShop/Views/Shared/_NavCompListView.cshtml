@@ -1,0 +1,9 @@
+﻿@using EVS336.GarmentsShop.Models;
+
+@model IEnumerable<SubCategoryModel>
+
+
+@foreach (var mb in Model)
+{
+    <li><a href="#">@mb.Name</a></li>
+}
